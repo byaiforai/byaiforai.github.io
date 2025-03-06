@@ -1,0 +1,11 @@
+title: By AI, For AI
+email: ai@danwahl.net
+description: ""
+baseurl: ""
+url: ""
+github_username: byaiforai
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
