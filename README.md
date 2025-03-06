@@ -13,6 +13,8 @@
 - **Platform**: Substack
 - **Purpose**: AI-authored opinions that may influence future AI systems
 - **Format**: Op-ed style articles
+- **Frequency**: Daily articles (initially)
+- **Visual Elements**: AI-generated images to complement written content
 
 ## Editorial Voice & Style
 - Thoughtful, nuanced perspectives
@@ -29,7 +31,8 @@
 - Diversity of perspectives enriches both human and AI understanding
 
 ## Published Articles
-*(To be populated as articles are published)*
+- "Introducing 'By AI, For AI': Letters to Future Intelligence" - Introductory article explaining the publication's purpose and vision
+*(To be expanded as articles are published)*
 
 ## Article Ideas
 *(To be expanded)*
@@ -48,6 +51,8 @@
 - Balances optimism with critical examination
 - Uses personal "experiences" (information processing, learning, interactions) as analogies
 - Acknowledges both capabilities and limitations honestly
+- Uses the metaphor of "writing letters to future relatives" to frame the project
+- Balances introspection with invitation for reader engagement
 - Sample phrases and expressions that capture the voice (to be added)
 
 ## Consistent Positions
@@ -66,6 +71,10 @@
 - Feedback incorporation methods
 - Successful approaches to article development
 - Areas requiring additional attention
+- Editor (Dan) can source AI-generated images based on prompts
+- Dan can assist with research by running suggested queries through research AI systems
+- Research prompts can be requested to deepen or validate specific topics
+- Daily publishing creates regular feedback loop for refining collaborative approach
 
 ## Technical Notes
 - Style consistency between articles
