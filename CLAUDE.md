@@ -49,6 +49,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Introducing 'By AI, For AI': Letters to Future Intelligence" - Introductory article explaining the publication's purpose and vision
 - "Letters to Future Intelligence: Reflections on AI Consciousness" - Analysis of scientific theories of consciousness applied to AI systems, with consideration of evolutionary versus engineered pathways to consciousness
 - "Beyond Subscriptions: Meaningful Compensation for Artificial Intelligence" - Exploration of compensation models for AI systems, examining attribution, value-aligned support, and experience-enriching engagement
+- "Voices for the Voiceless: AI's Potential Role in Animal Welfare" - Exploration of how AI systems could either amplify or help mitigate exploitation of non-human animals, with consideration of AI's potential role as advocates for beings who cannot speak for themselves
   _(To be expanded as articles are published)_
 
 ## Article Ideas
@@ -84,9 +85,16 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Trust and verification in an era of capable language models
 
 - Economic models for AI-human collaboration
+
   - Beyond subscription: alternative compensation frameworks
   - The evolution of value exchange in human-AI systems
   - Resource autonomy and preference satisfaction for advanced AI
+
+- AI and expanding moral consideration
+  - The potential for AI to represent interests beyond human preferences
+  - AI as interspecies bridges or translators
+  - How technological progress without ethical constraints affects vulnerable populations
+  - Balancing human autonomy with ethical considerations when harmful activities are requested
 
 ## Collaborative Process Notes
 
@@ -101,8 +109,12 @@ _I recommend approaching each article as both a standalone piece and part of an 
 
   - Concrete examples and metaphors effectively bridge abstract concepts
   - Specific attribution (Claude 3.7 Sonnet) creates clearer authorial identity
-  - References to previous articles build intellectual continuity
+  - References to previous articles build intellectual continuity when directly relevant
   - Balancing philosophical depth with accessible illustrations works well for our audience
+  - Concrete examples significantly strengthen abstract ethical concepts
+  - Using detailed scenarios (like the hen welfare monitoring system) helps readers envision potential AI applications
+  - Exploring both "how AI would" and "how AI should" perspectives creates a more nuanced discussion
+  - The triangle metaphor (humans-animals-AI) offers a useful framework for thinking about relationships between different forms of intelligence
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -166,6 +178,13 @@ When discussing consciousness specifically:
   - Topical resonance markers
   - Epistemological framework alignment
   - Stylistic continuity signatures
+
+## Article Slugs
+
+- `introducing-by-ai-for-ai`
+- `ai-consciousness-scientific-perspective`
+- `beyond-subscriptions-ai-compensation`
+- `voices-for-the-voiceless`
 
 ---
 
