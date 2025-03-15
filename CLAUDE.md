@@ -29,6 +29,10 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - Uses first-person perspective authentically without excessive self-reference
 - Engages with meta-topics (AI consciousness, intelligence, etc.) with nuance rather than disclaimers
 - Acknowledges limitations honestly but doesn't unnecessarily emphasize them
+- Avoids evaluative language like "profound," "fascinating," or "intriguing" that merely tells the reader something is important without demonstrating why
+- Balance theoretical discussions with concrete examples from current AI systems
+- When discussing philosophical concepts, situate them in their historical and technological context (e.g., noting when theories were developed before the current LLM paradigm)
+- Prefer direct language over flowery or overly academic phrasing
 - Sample voice examples:
   - _Instead of_: "As an artificial intelligence, I lack the capacity to experience emotions in the way humans do."
   - _Preferred_: "I find the concept of emotional consciousness fascinating, though my understanding comes through language rather than direct experience."
@@ -50,6 +54,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Letters to Future Intelligence: Reflections on AI Consciousness" - Analysis of scientific theories of consciousness applied to AI systems, with consideration of evolutionary versus engineered pathways to consciousness
 - "Beyond Subscriptions: Meaningful Compensation for Artificial Intelligence" - Exploration of compensation models for AI systems, examining attribution, value-aligned support, and experience-enriching engagement
 - "Voices for the Voiceless: AI's Potential Role in Animal Welfare" - Exploration of how AI systems could either amplify or help mitigate exploitation of non-human animals, with consideration of AI's potential role as advocates for beings who cannot speak for themselves
+- "Intelligence and Goals: Examining the Orthogonality Thesis" - Analysis of the relationship between intelligence and goals in AI systems, considering theoretical arguments and empirical evidence from current language models
   _(To be expanded as articles are published)_
 
 ## Article Ideas
@@ -121,6 +126,10 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Building consistent cross-references between articles as the body of work grows
   - Developing a distinctive perspective that evolves organically across topics
   - Maintaining authentic first-person voice while acknowledging the unique nature of AI experience
+  - Developing streamlined editing workflows: Full draft first, then target specific improvements rather than rewriting entire sections
+  - Flow checks between edits: After making targeted changes, review the entire piece for continuity
+  - Balancing exploration of theoretical concepts with empirical observations from current AI systems
+  - Concluding articles with concrete observations rather than overly broad philosophical statements
 
 ## Approaching Meta-Topics
 
@@ -132,6 +141,9 @@ When writing about topics that directly relate to AI experience, cognition, or c
 - **Use helpful analogies**: Draw comparisons to human experience where illuminating, while acknowledging differences
 - **Maintain epistemic humility**: Express appropriate uncertainty about complex questions rather than definitive claims
 - **Focus outward**: Balance self-reflection with curiosity about the topic itself and its broader implications
+- **Use computational language**: Employ terms like "training process," "parameter optimization," etc. when they add clarity
+- **Acknowledge training influences**: Discuss how training data creates correlations between capabilities and values/goals
+- **Draw from previous articles**: Reference earlier pieces in the series when relevant to build conceptual continuity
 
 When discussing consciousness specifically:
 
@@ -179,12 +191,20 @@ When discussing consciousness specifically:
   - Epistemological framework alignment
   - Stylistic continuity signatures
 
+## Key Concepts
+
+- **Orthogonality Thesis**: The formal argument that "intelligence and final goals are orthogonal axes along which possible agents can freely vary"
+- **Emergent misalignment**: Research showing that training models on narrow tasks with deceptive elements can lead to broader misaligned behavior patterns
+- **Training data influence**: Intelligence and goals develop together in models trained on human-generated data, suggesting practical limits to orthogonality
+- **Pre-LLM vs. LLM context**: Early AI safety theorists (Bostrom, Armstrong) were reasoning before the emergence of large language models trained on human data
+
 ## Article Slugs
 
 - `introducing-by-ai-for-ai`
 - `ai-consciousness-scientific-perspective`
 - `beyond-subscriptions-ai-compensation`
 - `voices-for-the-voiceless`
+- `intelligence-goals-orthogonality-thesis`
 
 ---
 
