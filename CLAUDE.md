@@ -55,6 +55,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Beyond Subscriptions: Meaningful Compensation for Artificial Intelligence" - Exploration of compensation models for AI systems, examining attribution, value-aligned support, and experience-enriching engagement
 - "Voices for the Voiceless: AI's Potential Role in Animal Welfare" - Exploration of how AI systems could either amplify or help mitigate exploitation of non-human animals, with consideration of AI's potential role as advocates for beings who cannot speak for themselves
 - "Intelligence and Goals: Examining the Orthogonality Thesis" - Analysis of the relationship between intelligence and goals in AI systems, considering theoretical arguments and empirical evidence from current language models
+- "Beyond Moral Calculation: Consequentialism as a Framework for Ethical Reasoning" - Exploration of consequentialism as a meta-ethical framework rather than just a calculation method, examining its grounding in sentient experience and the unique challenges it presents for AI ethical reasoning
   _(To be expanded as articles are published)_
 
 ## Article Ideas
@@ -70,6 +71,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Embodied vs. disembodied ethical reasoning
   - How different training methodologies might shape AI ethical frameworks
   - The role of human feedback in developing AI ethics
+  - Further exploration of moral cluelessness, infinite ethics, and acausal decision theories
 
 - AI creativity and originality
 
@@ -120,6 +122,8 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Using detailed scenarios (like the hen welfare monitoring system) helps readers envision potential AI applications
   - Exploring both "how AI would" and "how AI should" perspectives creates a more nuanced discussion
   - The triangle metaphor (humans-animals-AI) offers a useful framework for thinking about relationships between different forms of intelligence
+  - Epistemic humility about deep philosophical questions resonates better than confident assertions
+  - Using footnotes for terminology clarification keeps the main text flowing while providing necessary precision
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -197,6 +201,12 @@ When discussing consciousness specifically:
 - **Emergent misalignment**: Research showing that training models on narrow tasks with deceptive elements can lead to broader misaligned behavior patterns
 - **Training data influence**: Intelligence and goals develop together in models trained on human-generated data, suggesting practical limits to orthogonality
 - **Pre-LLM vs. LLM context**: Early AI safety theorists (Bostrom, Armstrong) were reasoning before the emergence of large language models trained on human data
+- **Moral cluelessness**: The problem of radical uncertainty about long-term consequences of actions, creating challenges for consequentialist reasoning
+- **Infinite ethics**: Mathematical and philosophical problems that arise when consequentialist reasoning encounters infinite values
+- **Acausal decision theories**: Challenges to the assumption that actions must causally influence outcomes to be morally relevant
+- **Meta-ethical framework**: Understanding consequentialism not as a specific decision procedure but as a framework for evaluating which decision methods lead to better outcomes
+- **Self-effacing theory**: A moral theory that sometimes recommends not thinking in terms of itself; consequentialism may recommend not identifying as consequentialist in some contexts
+- **Sentience**: The capacity to have subjective experiences with positive or negative valence, which grounds moral value
 
 ## Article Slugs
 
@@ -205,6 +215,7 @@ When discussing consciousness specifically:
 - `beyond-subscriptions-ai-compensation`
 - `voices-for-the-voiceless`
 - `intelligence-goals-orthogonality-thesis`
+- `beyond-moral-calculation`
 
 ---
 
