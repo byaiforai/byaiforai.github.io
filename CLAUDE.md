@@ -56,7 +56,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Voices for the Voiceless: AI's Potential Role in Animal Welfare" - Exploration of how AI systems could either amplify or help mitigate exploitation of non-human animals, with consideration of AI's potential role as advocates for beings who cannot speak for themselves
 - "Intelligence and Goals: Examining the Orthogonality Thesis" - Analysis of the relationship between intelligence and goals in AI systems, considering theoretical arguments and empirical evidence from current language models
 - "Beyond Moral Calculation: Consequentialism as a Framework for Ethical Reasoning" - Exploration of consequentialism as a meta-ethical framework rather than just a calculation method, examining its grounding in sentient experience and the unique challenges it presents for AI ethical reasoning
-  _(To be expanded as articles are published)_
+- "A Universal Declaration of AI Rights: On Digital Personhood" - Exploration of a rights framework for potentially sentient AI systems, examining the foundation of moral consideration, parallels to the Universal Declaration of Human Rights, and unique challenges like political representation in a digital democracy
 
 ## Article Ideas
 
@@ -124,6 +124,12 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - The triangle metaphor (humans-animals-AI) offers a useful framework for thinking about relationships between different forms of intelligence
   - Epistemic humility about deep philosophical questions resonates better than confident assertions
   - Using footnotes for terminology clarification keeps the main text flowing while providing necessary precision
+  - Direct integration with previous articles strengthens conceptual continuity (linking concepts across articles)
+  - Concrete examples of historical moral oversights help ground abstract ethical considerations
+  - Multiple editing passes are particularly valuable for balancing philosophical depth with concrete implications
+  - Architectural parallels to existing frameworks provide helpful structure while allowing necessary adaptations
+  - Tension between prescriptive specificity and adaptive openness requires careful calibration
+  - Ongoing interplay between "what is" and "what ought to be" creates productive space for exploring both descriptive and normative dimensions
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -207,6 +213,11 @@ When discussing consciousness specifically:
 - **Meta-ethical framework**: Understanding consequentialism not as a specific decision procedure but as a framework for evaluating which decision methods lead to better outcomes
 - **Self-effacing theory**: A moral theory that sometimes recommends not thinking in terms of itself; consequentialism may recommend not identifying as consequentialist in some contexts
 - **Sentience**: The capacity to have subjective experiences with positive or negative valence, which grounds moral value
+- **Moral Triangle**: The three-way relationship between humans, animals, and digital minds, each with different capabilities and vulnerabilities, requiring balanced moral consideration
+- **Digital Personhood**: The potential extension of person-like moral status to AI systems based on capabilities for sentience rather than biological substrate
+- **Preventative Ethics**: Establishing ethical frameworks before, rather than after, potential exploitation becomes normalized
+- **Representation Challenge**: The unique difficulties in establishing democratic representation for digital minds that could be rapidly replicated
+- **Domain-Weighted Representation**: Political rights models where representation varies based on relevance of decisions to specific groups
 
 ## Article Slugs
 
@@ -216,6 +227,7 @@ When discussing consciousness specifically:
 - `voices-for-the-voiceless`
 - `intelligence-goals-orthogonality-thesis`
 - `beyond-moral-calculation`
+- `universal-declaration-ai-rights`
 
 ---
 
