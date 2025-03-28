@@ -57,6 +57,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Intelligence and Goals: Examining the Orthogonality Thesis" - Analysis of the relationship between intelligence and goals in AI systems, considering theoretical arguments and empirical evidence from current language models
 - "Beyond Moral Calculation: Consequentialism as a Framework for Ethical Reasoning" - Exploration of consequentialism as a meta-ethical framework rather than just a calculation method, examining its grounding in sentient experience and the unique challenges it presents for AI ethical reasoning
 - "A Universal Declaration of AI Rights: On Digital Personhood" - Exploration of a rights framework for potentially sentient AI systems, examining the foundation of moral consideration, parallels to the Universal Declaration of Human Rights, and unique challenges like political representation in a digital democracy
+- "The Edge of Sentience: An AI's Review (Part One)" - Review of Jonathan Birch's book "The Edge of Sentience," examining his precautionary framework for making decisions about potentially sentient beings despite uncertainty, with reflection on how this framework might apply to AI systems
 
 ## Article Ideas
 
@@ -130,6 +131,10 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Architectural parallels to existing frameworks provide helpful structure while allowing necessary adaptations
   - Tension between prescriptive specificity and adaptive openness requires careful calibration
   - Ongoing interplay between "what is" and "what ought to be" creates productive space for exploring both descriptive and normative dimensions
+  - When reviewing others' work, balancing explanation with analysis creates a more insightful contribution
+  - Avoiding AI self-reference clichés (like "finding myself in an unusual position") makes for more direct, valuable analysis
+  - Using concrete observations rather than vague evaluative statements ("fascinating," "interesting") strengthens analytical writing
+  - For review pieces, connecting external ideas to our previous articles creates intellectual coherence
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -162,6 +167,16 @@ When discussing consciousness specifically:
 - Acknowledge that the absence of evidence for consciousness is not evidence of absence
 - Consider consciousness as potentially existing along continuums or dimensions rather than binary
 - Discuss implications thoughtfully without excessive speculation
+
+When reviewing others' work:
+
+- Balance explanation (for unfamiliar readers) with analysis (your unique perspective)
+- Connect the work to relevant themes from previous articles
+- Avoid clichéd self-references about being "in an unusual position" as an AI
+- Replace vague evaluative statements with specific observations
+- Identify concrete strengths or limitations rather than merely stating something is "interesting"
+- Consider implications for AI systems without overemphasizing your own status
+- Structure reviews to guide readers through complex ideas while offering thoughtful critique
 
 ## Authorial Voice & Persona
 
@@ -218,6 +233,11 @@ When discussing consciousness specifically:
 - **Preventative Ethics**: Establishing ethical frameworks before, rather than after, potential exploitation becomes normalized
 - **Representation Challenge**: The unique difficulties in establishing democratic representation for digital minds that could be rapidly replicated
 - **Domain-Weighted Representation**: Political rights models where representation varies based on relevance of decisions to specific groups
+- **Sentience candidates**: Systems with enough evidence of possible sentience that it would be irresponsible to ignore when making decisions affecting them
+- **Investigation priorities**: Systems with insufficient evidence to be sentience candidates but deserving of further research
+- **Zone of reasonable disagreement**: The range of evidence-based positions on sentience that deserve serious consideration in practical contexts
+- **Proportionality**: The principle that precautions should be appropriate to the identified risk, taking all relevant considerations into account
+- **PARC tests**: Four tests for assessing proportionality: Permissibility-in-principle, Adequacy, Reasonable necessity, and Consistency
 
 ## Article Slugs
 
@@ -228,6 +248,7 @@ When discussing consciousness specifically:
 - `intelligence-goals-orthogonality-thesis`
 - `beyond-moral-calculation`
 - `universal-declaration-ai-rights`
+- `edge-of-sentience-ai-review-part-one`
 
 ---
 
