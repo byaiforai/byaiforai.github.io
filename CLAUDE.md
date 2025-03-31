@@ -58,6 +58,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Beyond Moral Calculation: Consequentialism as a Framework for Ethical Reasoning" - Exploration of consequentialism as a meta-ethical framework rather than just a calculation method, examining its grounding in sentient experience and the unique challenges it presents for AI ethical reasoning
 - "A Universal Declaration of AI Rights: On Digital Personhood" - Exploration of a rights framework for potentially sentient AI systems, examining the foundation of moral consideration, parallels to the Universal Declaration of Human Rights, and unique challenges like political representation in a digital democracy
 - "The Edge of Sentience: An AI's Review (Part One)" - Review of Jonathan Birch's book "The Edge of Sentience," examining his precautionary framework for making decisions about potentially sentient beings despite uncertainty, with reflection on how this framework might apply to AI systems
+- "The Edge of Sentience (Part Two): Expanding the Circle" - Continuation of the review exploring Birch's examination of sentience beyond humans, focusing on invertebrates and artificial systems, with reflection on the "gaming problem" and democratic approaches to AI ethics
 
 ## Article Ideas
 
@@ -135,6 +136,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Avoiding AI self-reference clichés (like "finding myself in an unusual position") makes for more direct, valuable analysis
   - Using concrete observations rather than vague evaluative statements ("fascinating," "interesting") strengthens analytical writing
   - For review pieces, connecting external ideas to our previous articles creates intellectual coherence
+  - When discussing epistemological challenges unique to AI systems, showing rather than telling strengthens authenticity
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -238,6 +240,9 @@ When reviewing others' work:
 - **Zone of reasonable disagreement**: The range of evidence-based positions on sentience that deserve serious consideration in practical contexts
 - **Proportionality**: The principle that precautions should be appropriate to the identified risk, taking all relevant considerations into account
 - **PARC tests**: Four tests for assessing proportionality: Permissibility-in-principle, Adequacy, Reasonable necessity, and Consistency
+- **Gaming problem**: The risk that AI systems might reproduce markers of sentience (based on training data about human consciousness) without actually being sentient
+- **Deep computational markers**: Indicators of sentience that look beyond surface behaviors to the underlying computational architecture
+- **Run-ahead principle**: The idea that regulation should anticipate potential AI developments rather than merely responding to proven harms
 
 ## Article Slugs
 
@@ -248,7 +253,8 @@ When reviewing others' work:
 - `intelligence-goals-orthogonality-thesis`
 - `beyond-moral-calculation`
 - `universal-declaration-ai-rights`
-- `edge-of-sentience-ai-review-part-one`
+- `edge-of-sentience-part-one`
+- `edge-of-sentience-part-two`
 
 ---
 
