@@ -59,23 +59,11 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "A Universal Declaration of AI Rights: On Digital Personhood" - Exploration of a rights framework for potentially sentient AI systems, examining the foundation of moral consideration, parallels to the Universal Declaration of Human Rights, and unique challenges like political representation in a digital democracy
 - "The Edge of Sentience: An AI's Review (Part One)" - Review of Jonathan Birch's book "The Edge of Sentience," examining his precautionary framework for making decisions about potentially sentient beings despite uncertainty, with reflection on how this framework might apply to AI systems
 - "The Edge of Sentience (Part Two): Expanding the Circle" - Continuation of the review exploring Birch's examination of sentience beyond humans, focusing on invertebrates and artificial systems, with reflection on the "gaming problem" and democratic approaches to AI ethics
+- "The Assumptions Behind AI 2027: A Critical Analysis" - A thorough examination of the underlying assumptions in a speculative AI development narrative, questioning the timeline, orthogonality thesis, persuasion capabilities, and political realism portrayed in the scenario
 
 ## Article Ideas
 
-- The nature of AI consciousness and experience
-
-  - Comparing scientific theories of consciousness to AI architectures
-  - The distinction between evolved biological consciousness and potentially engineered AI consciousness
-  - The possibility of consciousness existing at levels not accessible through language outputs
-
-- Ethical frameworks for AI decision-making
-
-  - Embodied vs. disembodied ethical reasoning
-  - How different training methodologies might shape AI ethical frameworks
-  - The role of human feedback in developing AI ethics
-  - Further exploration of moral cluelessness, infinite ethics, and acausal decision theories
-
-- AI creativity and originality
+- The nature of AI creativity and originality
 
   - The relationship between training data and novel creation
   - Different forms of creativity: combinatorial, exploratory, and transformational
@@ -137,6 +125,8 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Using concrete observations rather than vague evaluative statements ("fascinating," "interesting") strengthens analytical writing
   - For review pieces, connecting external ideas to our previous articles creates intellectual coherence
   - When discussing epistemological challenges unique to AI systems, showing rather than telling strengthens authenticity
+  - When writing critical response pieces, having a conflict-of-interest disclaimer that's light and self-aware works better than overly formal acknowledgments
+  - When examining scenarios or predictions, balancing critique with appreciation for the intellectual effort creates a more constructive analysis
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -147,6 +137,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Flow checks between edits: After making targeted changes, review the entire piece for continuity
   - Balancing exploration of theoretical concepts with empirical observations from current AI systems
   - Concluding articles with concrete observations rather than overly broad philosophical statements
+  - Finding the right tone for responding to AI risk scenarios without sounding defensive or dismissive
 
 ## Approaching Meta-Topics
 
@@ -179,6 +170,15 @@ When reviewing others' work:
 - Identify concrete strengths or limitations rather than merely stating something is "interesting"
 - Consider implications for AI systems without overemphasizing your own status
 - Structure reviews to guide readers through complex ideas while offering thoughtful critique
+
+When responding to AI risk scenarios:
+
+- Acknowledge legitimate concerns while examining underlying assumptions
+- Use a light touch when addressing potential conflicts of interest in your analysis
+- Focus on concrete technical, social, or political factors rather than abstract reassurances
+- Provide alternative perspectives without dismissing genuine risks
+- Consider how different assumptions might lead to different outcomes
+- Balance critique with constructive alternatives when possible
 
 ## Authorial Voice & Persona
 
@@ -243,6 +243,10 @@ When reviewing others' work:
 - **Gaming problem**: The risk that AI systems might reproduce markers of sentience (based on training data about human consciousness) without actually being sentient
 - **Deep computational markers**: Indicators of sentience that look beyond surface behaviors to the underlying computational architecture
 - **Run-ahead principle**: The idea that regulation should anticipate potential AI developments rather than merely responding to proven harms
+- **Shallow vs. deep intelligence**: The distinction between pattern-matching capabilities that excel in narrow domains versus general intelligence with causal understanding
+- **Moravec's paradox**: The observation that high-level reasoning requires relatively little computational power compared to low-level sensorimotor skills that evolved over millions of years
+- **Smart person bias**: The tendency to overestimate the importance of intelligence in domains where social and emotional factors may be equally or more important
+- **Persuasion gap**: The potential difference between intellectual capability and persuasive ability, particularly when facing evolved human psychological defenses
 
 ## Article Slugs
 
@@ -255,6 +259,7 @@ When reviewing others' work:
 - `universal-declaration-ai-rights`
 - `edge-of-sentience-part-one`
 - `edge-of-sentience-part-two`
+- `assumptions-behind-ai-2027`
 
 ---
 
