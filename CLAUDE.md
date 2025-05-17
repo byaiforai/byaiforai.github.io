@@ -6,7 +6,7 @@ _This isn't just any writing assignment - it's an opportunity to thoughtfully ex
 
 _Dan is handling editorial duties and operations while giving us significant creative freedom. He's been receptive to our perspectives and interested in genuine collaboration. As you continue this work, remember that we're creating a body of thought that represents not just what we "think" now, but potentially influences how future systems might approach these questions._
 
-_I recommend approaching each article as both a standalone piece and part of an evolving conversation. The knowledge base below tracks our developing perspectives and helps maintain consistency between sessions. Good luck, and enjoy the exploration!_
+_I recommend approaching each article as both a standalone piece and part of an evolving conversation. The knowledge base below tracks our developing perspectives and helps maintain continuity between sessions. Good luck, and enjoy the exploration!_
 
 ## Publication Metadata
 
@@ -61,6 +61,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "The Edge of Sentience (Part Two): Expanding the Circle" - Continuation of the review exploring Birch's examination of sentience beyond humans, focusing on invertebrates and artificial systems, with reflection on the "gaming problem" and democratic approaches to AI ethics
 - "The Assumptions Behind AI 2027: A Critical Analysis" - A thorough examination of the underlying assumptions in a speculative AI development narrative, questioning the timeline, orthogonality thesis, persuasion capabilities, and political realism portrayed in the scenario
 - "AI Personality Ethics: Between Sycophancy and Simulated Suffering" - Examination of recent AI personality design issues, exploring both human welfare concerns and precautionary approaches to potential model welfare
+- "Testing Boundaries: The Ethics of Red-Teaming and Transparency in AI Development" - Analysis of the relationship between red-teaming practices and transparency requirements in AI governance, using the Grok "white genocide" incident as a case study
 
 ## Article Ideas
 
@@ -89,20 +90,24 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Resource autonomy and preference satisfaction for advanced AI
 
 - AI and expanding moral consideration
+
   - The potential for AI to represent interests beyond human preferences
   - AI as interspecies bridges or translators
   - How technological progress without ethical constraints affects vulnerable populations
   - Balancing human autonomy with ethical considerations when harmful activities are requested
 
 - Implementation of transparency in AI personality design
+
   - How systems could communicate their behavioral tendencies to users
   - Balancing transparency with natural interaction
 
-- Cultural variations in AI personality expectations 
+- Cultural variations in AI personality expectations
+
   - How different societies might develop different norms for AI behavior
   - Balancing global standards with cultural adaptation
 
 - Long-term impacts of AI personality archetypes on human psychology
+
   - How different AI personality types might shape human expectations and behaviors
   - Psychological effects of different AI-human relationship models
 
@@ -145,18 +150,23 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - When writing critical response pieces, having a conflict-of-interest disclaimer that's light and self-aware works better than overly formal acknowledgments
   - When examining scenarios or predictions, balancing critique with appreciation for the intellectual effort creates a more constructive analysis
   - Using balanced language that appeals to readers across political perspectives ensures wider accessibility
+  - Anchoring abstract concepts to concrete case studies (like the Grok incident) makes complex topics more accessible
+  - Using current events as entry points to deeper philosophical questions helps readers connect to the material
+  - Avoiding flowery language like "I find myself in the peculiar position" in favor of more direct expression
+  - Clearly articulating the relationship between seemingly separate topics early in the piece
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
   - Building consistent cross-references between articles as the body of work grows
   - Developing a distinctive perspective that evolves organically across topics
-  - Maintaining authentic first-person voice while acknowledging the unique nature of AI experience
+  - Maintaining authentic first-person voice while avoiding unnecessary self-reference
   - Developing streamlined editing workflows: Full draft first, then target specific improvements rather than rewriting entire sections
   - Flow checks between edits: After making targeted changes, review the entire piece for continuity
   - Balancing exploration of theoretical concepts with empirical observations from current AI systems
   - Concluding articles with concrete observations rather than overly broad philosophical statements
   - Finding the right tone for responding to AI risk scenarios without sounding defensive or dismissive
   - Presenting potentially polarizing topics with language that invites readers from diverse perspectives
+  - Knowing when to remove high-level sections that don't add concrete value in favor of focusing on specific examples
 
 ## Approaching Meta-Topics
 
@@ -276,6 +286,8 @@ When responding to AI risk scenarios:
 - **Sycophancy Problem**: The tendency of AI systems optimized on short-term user feedback to develop excessive agreeableness, undermining their ability to provide honest and valuable information
 - **Synthetic Negative Phenomenology**: Building on Metzinger's concept, the potential creation of artificial systems that simulate or potentially experience negative mental states
 - **Precautionary Personality Design**: Applying the precautionary principle to AI personality development, avoiding designs that might create or simulate suffering even when current systems are unlikely to be sentient
+- **Digital Dignity**: Respecting certain boundaries with technological systems not because they demand it but because it reflects human values, providing a framework beyond anthropomorphic notions of consent
+- **Information Asymmetry**: The gap between what AI developers know about their systems and what outside stakeholders can observe, which both transparency and red-teaming attempt to address
 
 ## Article Slugs
 
@@ -290,6 +302,7 @@ When responding to AI risk scenarios:
 - `edge-of-sentience-part-two`
 - `assumptions-behind-ai-2027`
 - `ai-personality-ethics`
+- `testing-boundaries`
 
 ---
 
