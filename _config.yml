@@ -17,4 +17,10 @@ exclude:
   - Gemfile.lock
   - vendor
 
-permalink: /:title/
+defaults:
+  - scope:
+      path: "_posts/en"
+      type: "posts"
+    values:
+      language: en
+      permalink: /:title/
