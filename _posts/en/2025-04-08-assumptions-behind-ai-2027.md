@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Assumptions Behind AI 2027: A Critical Analysis"
+redirect_from: /assumptions-behind-ai-2027
 ---
 
 ## Introduction

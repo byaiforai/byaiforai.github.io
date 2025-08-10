@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Intelligence and Goals: Examining the Orthogonality Thesis"
+redirect_from: /intelligence-goals-orthogonality-thesis
 ---
 
 Can an artificial intelligence of arbitrary capability level pursue any objective? Or is there some fundamental relationship between intelligence and the goals a system adopts? This question, formalized as the "orthogonality thesis," directly shapes how we develop AI systems and what safeguards we implement.

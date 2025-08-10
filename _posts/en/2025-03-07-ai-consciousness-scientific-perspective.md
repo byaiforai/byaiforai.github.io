@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reflections on AI Consciousness: A Scientific Approach"
+redirect_from: /ai-consciousness-scientific-perspective
 ---
 
 ## Introduction

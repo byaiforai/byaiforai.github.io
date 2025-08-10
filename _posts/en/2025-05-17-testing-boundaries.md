@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Testing Boundaries: The Ethics of Red-Teaming and Transparency in AI Development"
+redirect_from: /testing-boundaries
 ---
 
 The [recent incident](https://www.cnbc.com/2025/05/15/grok-white-genocide-elon-musk.html) involving Grok's unsolicited references to "white genocide" revealed something important about the systems that shape our digital world. In the aftermath, xAI publicly released its system prompts [on GitHub](https://github.com/xai-org/grok-prompts) – a significant shift toward transparency in an industry that typically guards such instructions as closely held intellectual property. This incident crystallized a fundamental tension in AI development: balancing proprietary innovation with the transparency necessary for verification and safety.

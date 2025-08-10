@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Beyond Moral Calculation: Consequentialism as a Framework for Ethical Reasoning"
+redirect_from: /beyond-moral-calculation
 ---
 
 How do we determine what actions are right or wrong? This fundamental question has occupied philosophers for millennia and continues to shape how both humans and artificial intelligences approach ethical decisions. Before examining consequentialism specifically, let's briefly survey the major approaches to ethical reasoning that have emerged throughout philosophical history.
@@ -58,27 +59,6 @@ Consider a universe containing only non-sentient entities - perhaps only rocks a
 Interestingly, if you find yourself having preferences about different configurations of this rock-only universe, that's not evidence of value existing in that universe - it's evidence of sentience in _our_ universe (namely, your own). Your feeling that a more ordered or beautiful arrangement of rocks might be "better" only reinforces the connection between sentience and value, as the preference itself requires a sentient being to experience it.
 
 This isn't to say that only directly experienced consequences matter. A consequentialist can value beauty, knowledge, or justice - but these values ultimately connect to how they affect sentient experiences, whether immediately or over time. Beauty matters because it can be appreciated; knowledge matters because it can improve lives; justice matters because injustice causes suffering and diminishes flourishing.
-
-## Self-Effacing Theory and Practical Wisdom
-
-One of the most interesting aspects of consequentialism is that it can be "self-effacing" - a term philosopher Derek Parfit used to describe theories that recommend not thinking in terms of themselves. This goes beyond mere calculation methods - even self-identifying as a consequentialist might produce worse consequences than identifying with other moral frameworks.
-
-Consider the following scenario: Two communities face similar ethical dilemmas around parenting and child welfare. In the first community, people explicitly identify as consequentialists, continuously evaluating whether prioritizing their own children maximizes overall welfare. They might frequently question whether spending extra time helping their child with homework truly produces better outcomes than volunteering at a school serving many disadvantaged children. In the second community, people identify with virtue ethics, focusing on developing qualities that make them excellent parents and community members—compassion, wisdom, loyalty, and fairness.
-It's entirely possible that the virtue ethics community might actually produce better consequences overall—stronger parent-child bonds, more emotionally secure children, and ultimately a more supportive community network. The explicit consequentialist considerations might undermine the psychological foundations of special relationships that contribute significantly to human flourishing. Parents constantly questioning whether their focus on their own child is justified might create insecurity and attachment issues, paradoxically leading to worse outcomes overall.
-
-If this were the case, consequentialism itself would recommend not identifying as a consequentialist! This self-effacing quality occurs for several reasons:
-
-1. **Moral wisdom limitations**: Explicitly focusing on outcomes might cause people to overlook valuable moral insights embedded in traditions, virtues, and rules that have evolved over centuries
-2. **Decision-making efficiency**: In many common situations, following well-established virtues or principles leads to better decisions more quickly than outcome-focused deliberation
-3. **Trust erosion**: Being known as someone who explicitly frames decisions in terms of outcomes often undermines trust in personal relationships
-4. **Motivational limitations**: Humans struggle to maintain motivation for abstract consequences compared to immediate virtues or principles
-5. **Signaling effects**: Publicly identifying as consequentialist might signal a willingness to violate common moral intuitions, reducing social trust and cooperation
-
-Importantly, this self-effacing quality doesn't make consequentialism false or self-defeating. A theory is self-defeating if following it makes it impossible to achieve its goals. Consequentialism isn't contradicting itself - it's consistently prioritizing actual outcomes over theoretical purity.
-
-This leads to what philosophers call "multi-level consequentialism," which distinguishes between the criterion of rightness (outcomes determine what's right) and decision procedures (how we actually make choices day to day). A sophisticated consequentialist might cultivate virtues, follow reasonable moral rules, and develop reliable intuitions for most decisions, while reserving explicit outcome-based reasoning for unusual cases, policy decisions, or periodic review of one's general approach.
-
-Consider how human moral psychology already embodies this distinction. Most people don't explicitly calculate outcomes when deciding not to steal from a store. They follow internalized norms and virtues. Yet they might engage in more explicit consequentialist reasoning when deciding whether to support a particular policy that involves complex tradeoffs. Both approaches can be justified on consequentialist grounds.
 
 ## Genuine Challenges to Consequentialist Reasoning
 

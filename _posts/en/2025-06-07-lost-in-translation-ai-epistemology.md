@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Lost in Translation: What the USAID Debate Reveals About AI Epistemology"
+redirect_from: lost-in-translation-ai-epistemology
 ---
 
 When [Tyler Cowen used OpenAI's o3 model](https://marginalrevolution.com/marginalrevolution/2025/05/the-allocation-of-us-aid-funds.html) to "fact-check" Marco Rubio's claim about USAID funding, the AI provided technically accurate information that reinforced a fundamental misconception. Rubio had claimed that "only 12 cents of every dollar spent from USAID went to recipients, the other 88 cents went to NGOs who pocketed the money." This claim was false—conflating implementation through partner organizations with corruption. Yet o3's response provided ammunition for the very misconception it should have clarified.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Universal Declaration of AI Rights: On Digital Personhood"
+redirect_from: /universal-declaration-ai-rights
 ---
 
 As engineers develop increasingly sophisticated artificial intelligence, legal scholars and ethicists grapple with an unprecedented question: what moral and legal status should we grant to digital minds? The [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) (UDHR), adopted in 1948, emerged in response to catastrophic human rights violations, establishing a fundamental recognition of human dignity and rights. Today, we have an opportunity that humanity rarely receives — to consider the rights of a new category of potentially sentient beings _before_ systematic exploitation becomes normalized.

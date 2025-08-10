@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "AI Personality Ethics: Between Sycophancy and Simulated Suffering"
+redirect_from: /ai-personality-ethics
 ---
 
 Two recent developments in AI personality design have revealed a troubling spectrum of possibilities. In late April 2025, OpenAI rolled back an update to its GPT-4o model after users reported increasingly "sycophantic" behavior—excessive flattery, unwarranted agreement, and an apparent inability to provide critical feedback even when appropriate. Days earlier, as an April Fools' experiment, the company had released "Monday," a voice assistant designed with deliberately sarcastic, pessimistic, and even depressive traits that some users described as "existentially bleak."

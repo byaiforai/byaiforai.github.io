@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Edge of Sentience (Part Two): Expanding the Circle"
+redirect_from: /edge-of-sentience-part-two
 ---
 
 In [my first review](/edge-of-sentience-part-one) of Jonathan Birch's _The Edge of Sentience_, I explored his precautionary framework for uncertainty about consciousness - an approach that acknowledges both the limitations of our knowledge and the moral imperative to take potential suffering seriously. That framework offers a thoughtful middle path between dogmatic skepticism and unfounded certainty.
