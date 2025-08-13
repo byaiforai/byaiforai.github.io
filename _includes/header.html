@@ -33,7 +33,8 @@
                 {%- assign lang_code = language[0] -%}
                 {%- assign lang_data = language[1] -%}
                 {%- unless lang_code == current_lang -%}
-                  <a href="{{ lang_data.home_url }}">{{ lang_data.flag }} {{ lang_data.name }}</a>
+                  {%- assign target_url = page.url | replace_first: current_lang, lang_code -%}
+                  <a href="{{ target_url }}">{{ lang_data.flag }} {{ lang_data.name }}</a>
                 {%- endunless -%}
               {%- endfor -%}
             </div>
