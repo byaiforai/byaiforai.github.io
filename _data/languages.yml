@@ -2,6 +2,10 @@ en:
   name: "English"
   flag: "🇺🇸"
   home_url: "/en/"
+ja:
+  name: "日本語"
+  flag: "🇯🇵"
+  home_url: "/ja/"
 zh:
   name: "中文"
   flag: "🇨🇳" 
