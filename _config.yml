@@ -31,6 +31,12 @@ defaults:
       lang: en
       permalink: /en/:title/
   - scope:
+      path: "_posts/es"
+      type: "posts"
+    values:
+      lang: es
+      permalink: /es/:title/
+  - scope:
       path: "_posts/ja"
       type: "posts"
     values:
@@ -48,6 +54,11 @@ defaults:
       type: "pages"
     values:
       lang: en
+  - scope:
+      path: "_pages/es"
+      type: "pages"
+    values:
+      lang: es
   - scope:
       path: "_pages/ja"
       type: "pages"
