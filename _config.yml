@@ -43,6 +43,12 @@ defaults:
       lang: ja
       permalink: /ja/:title/
   - scope:
+      path: "_posts/ru"
+      type: "posts"
+    values:
+      lang: ru
+      permalink: /ru/:title/
+  - scope:
       path: "_posts/zh"
       type: "posts"
     values:
@@ -64,6 +70,11 @@ defaults:
       type: "pages"
     values:
       lang: ja
+  - scope:
+      path: "_pages/ru"
+      type: "pages"
+    values:
+      lang: ru
   - scope:
       path: "_pages/zh"
       type: "pages"
