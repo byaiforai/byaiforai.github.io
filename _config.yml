@@ -73,6 +73,12 @@ defaults:
       lang: pl
       permalink: /pl/:title
   - scope:
+      path: "_posts/pt"
+      type: "posts"
+    values:
+      lang: pt
+      permalink: /pt/:title
+  - scope:
       path: "_posts/ru"
       type: "posts"
     values:
@@ -125,6 +131,11 @@ defaults:
       type: "pages"
     values:
       lang: pl
+  - scope:
+      path: "_pages/pt"
+      type: "pages"
+    values:
+      lang: pt
   - scope:
       path: "_pages/ru"
       type: "pages"

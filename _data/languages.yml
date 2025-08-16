@@ -30,6 +30,10 @@ pl:
   name: "Polski"
   flag: "🇵🇱"
   home_url: "/pl/"
+pt:
+  name: "Português"
+  flag: "🇵🇹"
+  home_url: "/pt/"
 ru:
   name: "Русский"
   flag: "🇷🇺"
