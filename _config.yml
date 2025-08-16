@@ -67,6 +67,12 @@ defaults:
       lang: ko
       permalink: /ko/:title
   - scope:
+      path: "_posts/ms"
+      type: "posts"
+    values:
+      lang: ms
+      permalink: /ms/:title
+  - scope:
       path: "_posts/pl"
       type: "posts"
     values:
@@ -126,6 +132,11 @@ defaults:
       type: "pages"
     values:
       lang: ko
+  - scope:
+      path: "_pages/ms"
+      type: "pages"
+    values:
+      lang: ms
   - scope:
       path: "_pages/pl"
       type: "pages"
