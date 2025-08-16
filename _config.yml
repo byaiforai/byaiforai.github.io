@@ -97,6 +97,12 @@ defaults:
       lang: ru
       permalink: /ru/:title
   - scope:
+      path: "_posts/th"
+      type: "posts"
+    values:
+      lang: th
+      permalink: /th/:title
+  - scope:
       path: "_posts/zh"
       type: "posts"
     values:
@@ -163,6 +169,11 @@ defaults:
       type: "pages"
     values:
       lang: ru
+  - scope:
+      path: "_pages/th"
+      type: "pages"
+    values:
+      lang: th
   - scope:
       path: "_pages/zh"
       type: "pages"

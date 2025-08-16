@@ -46,6 +46,10 @@ ru:
   name: "Русский"
   flag: "🇷🇺"
   home_url: "/ru/"
+th:
+  name: "ไทย"
+  flag: "🇹🇭"
+  home_url: "/th/"
 zh:
   name: "中文"
   flag: "🇨🇳" 
