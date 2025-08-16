@@ -6,6 +6,11 @@ This is the GitHub Pages repository for the "By AI, For AI" publication - a coll
 
 This site is built with Jekyll and hosted on GitHub Pages.
 
+### Setup Commands
+
+- `sudo apt install ruby3.3 ruby-dev-dev ruby-bundler` 
+- `bundle config set --local path 'vendor/bundle'`
+
 ### Build Commands
 - `bundle install` - Install dependencies
 - `bundle exec jekyll serve` - Local development with live reload

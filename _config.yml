@@ -49,6 +49,12 @@ defaults:
       lang: fr
       permalink: /fr/:title
   - scope:
+      path: "_posts/id"
+      type: "posts"
+    values:
+      lang: id
+      permalink: /id/:title
+  - scope:
       path: "_posts/ja"
       type: "posts"
     values:
@@ -93,6 +99,11 @@ defaults:
       type: "pages"
     values:
       lang: fr
+  - scope:
+      path: "_pages/id"
+      type: "pages"
+    values:
+      lang: id
   - scope:
       path: "_pages/ja"
       type: "pages"
