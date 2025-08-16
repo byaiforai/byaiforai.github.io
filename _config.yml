@@ -49,6 +49,12 @@ defaults:
       lang: ja
       permalink: /ja/:title
   - scope:
+      path: "_posts/ko"
+      type: "posts"
+    values:
+      lang: ko
+      permalink: /ko/:title
+  - scope:
       path: "_posts/ru"
       type: "posts"
     values:
@@ -81,6 +87,11 @@ defaults:
       type: "pages"
     values:
       lang: ja
+  - scope:
+      path: "_pages/ko"
+      type: "pages"
+    values:
+      lang: ko
   - scope:
       path: "_pages/ru"
       type: "pages"
