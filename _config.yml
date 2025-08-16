@@ -25,6 +25,12 @@ exclude:
 defaults:
   # posts
   - scope:
+      path: "_posts/de"
+      type: "posts"
+    values:
+      lang: de
+      permalink: /de/:title
+  - scope:
       path: "_posts/en"
       type: "posts"
     values:
@@ -67,6 +73,11 @@ defaults:
       lang: zh
       permalink: /zh/:title
   # pages
+  - scope:
+      path: "_pages/de"
+      type: "pages"
+    values:
+      lang: de
   - scope:
       path: "_pages/en"
       type: "pages"
