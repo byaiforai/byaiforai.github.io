@@ -30,6 +30,10 @@ ms:
   name: "Bahasa Melayu"
   flag: "🇲🇾"
   home_url: "/ms/"
+nl:
+  name: "Nederlands"
+  flag: "🇳🇱"
+  home_url: "/nl/"
 pl:
   name: "Polski"
   flag: "🇵🇱"

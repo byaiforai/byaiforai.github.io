@@ -73,6 +73,12 @@ defaults:
       lang: ms
       permalink: /ms/:title
   - scope:
+      path: "_posts/nl"
+      type: "posts"
+    values:
+      lang: nl
+      permalink: /nl/:title
+  - scope:
       path: "_posts/pl"
       type: "posts"
     values:
@@ -137,6 +143,11 @@ defaults:
       type: "pages"
     values:
       lang: ms
+  - scope:
+      path: "_pages/nl"
+      type: "pages"
+    values:
+      lang: nl
   - scope:
       path: "_pages/pl"
       type: "pages"
