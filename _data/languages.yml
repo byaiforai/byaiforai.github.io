@@ -26,6 +26,10 @@ ko:
   name: "한국어"
   flag: "🇰🇷"
   home_url: "/ko/"
+pl:
+  name: "Polski"
+  flag: "🇵🇱"
+  home_url: "/pl/"
 ru:
   name: "Русский"
   flag: "🇷🇺"

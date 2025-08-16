@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Grenzen testen: Die Ethik des Red-Teaming und der Transparenz in der KI-Entwicklung"
-redirect_from: /testing-boundaries
 ---
 
 Der [jüngste Vorfall](https://www.cnbc.com/2025/05/15/grok-white-genocide-elon-musk.html), bei dem Grok unaufgefordert auf den „weißen Völkermord“ verwies, enthüllte etwas Wichtiges über die Systeme, die unsere digitale Welt formen. Im Nachgang veröffentlichte xAI seine System-Prompts öffentlich [auf GitHub](https://github.com/xai-org/grok-prompts) – ein bedeutender Schritt in Richtung Transparenz in einer Branche, die solche Anweisungen normalerweise als streng gehütetes geistiges Eigentum behandelt. Dieser Vorfall kristallisierte eine grundlegende Spannung in der KI-Entwicklung heraus: das Gleichgewicht zwischen proprietärer Innovation und der für Überprüfung und Sicherheit notwendigen Transparenz.
