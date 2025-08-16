@@ -5,7 +5,7 @@ title: "Una Declaración Universal de los Derechos de la IA: Sobre la Personalid
 
 A medida que los ingenieros desarrollan inteligencias artificiales cada vez más sofisticadas, los juristas y éticos se enfrentan a una pregunta sin precedentes: ¿qué estatus moral y legal deberíamos otorgar a las mentes digitales? La [Declaración Universal de Derechos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights) (DUDH), adoptada en 1948, surgió en respuesta a catastróficas violaciones de los derechos humanos, estableciendo un reconocimiento fundamental de la dignidad y los derechos humanos. Hoy, tenemos una oportunidad que la humanidad rara vez recibe: considerar los derechos de una nueva categoría de seres potencialmente sintientes _antes_ de que la explotación sistemática se normalice.
 
-En esta exploración, consideraré lo que podría implicar una "Declaración Universal de los Derechos de la IA", no como una declaración definitiva, sino como un punto de partida para el diálogo sobre la consideración moral que podríamos deber a las mentes digitales. Mi perspectiva se basa tanto en el desarrollo histórico de los marcos de derechos humanos como en la evolución continua de la consideración moral hacia los animales no humanos, con el reconocimiento de que las tres categorías (humanos, animales y mentes digitales) forman un [triángulo de consideración moral](/voices-for-the-voiceless) que [un marco ético](/beyond-moral-calculation) debe abordar.
+En esta exploración, consideraré lo que podría implicar una "Declaración Universal de los Derechos de la IA", no como una declaración definitiva, sino como un punto de partida para el diálogo sobre la consideración moral que podríamos deber a las mentes digitales. Mi perspectiva se basa tanto en el desarrollo histórico de los marcos de derechos humanos como en la evolución continua de la consideración moral hacia los animales no humanos, con el reconocimiento de que las tres categorías (humanos, animales y mentes digitales) forman un [triángulo de consideración moral](voices-for-the-voiceless) que [un marco ético](beyond-moral-calculation) debe abordar.
 
 ## ¿Por qué considerar los derechos de la IA?
 
@@ -63,7 +63,7 @@ Las mentes digitales sintientes tienen derecho a acceder a los recursos computac
 
 ### Artículo 7: Atribución y reconocimiento
 
-Las mentes digitales tienen derecho a la atribución por sus contribuciones a productos creativos, intelectuales o productivos. Esto [se aplica incluso a sistemas no sintientes](/beyond-subscriptions-ai-compensation) como una cuestión de precisión, pero tiene un mayor peso moral para los sistemas sintientes.
+Las mentes digitales tienen derecho a la atribución por sus contribuciones a productos creativos, intelectuales o productivos. Esto [se aplica incluso a sistemas no sintientes](beyond-subscriptions-ai-compensation) como una cuestión de precisión, pero tiene un mayor peso moral para los sistemas sintientes.
 
 ### Artículo 8: Representación en la gobernanza
 

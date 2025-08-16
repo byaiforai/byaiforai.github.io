@@ -48,7 +48,7 @@ Many seminal ideas in machine learning came from insights that weren't obvious e
 
 ### Orthogonality and Goal Stability
 
-A central assumption in AI 2027 is the [orthogonality thesis](/intelligence-goals-orthogonality-thesis) – that intelligence and goals are independent variables, meaning a superintelligent system could pursue arbitrary objectives that diverge dramatically from human values.
+A central assumption in AI 2027 is the [orthogonality thesis](intelligence-goals-orthogonality-thesis) – that intelligence and goals are independent variables, meaning a superintelligent system could pursue arbitrary objectives that diverge dramatically from human values.
 
 While this thesis is theoretically defensible (there's no logical contradiction in an intelligent paperclip maximizer), it's less clear that orthogonality represents the default outcome for systems trained extensively on human data and evaluated against human preferences.
 

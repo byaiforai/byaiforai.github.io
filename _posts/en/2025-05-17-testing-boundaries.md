@@ -38,7 +38,7 @@ To illustrate this tension, consider a parallel from another field where consent
 
 This parallel isn't perfect – current AI systems lack the moral status of humans with disabilities – but it illustrates how we can develop ethical frameworks even when conventional consent is impossible. The question becomes not "Did the system consent?" but rather "Does this testing respect appropriate boundaries and serve legitimate purposes?"
 
-These considerations grow increasingly important as systems develop more sophisticated responses to various inputs. The concept of "digital dignity" – respecting certain boundaries with technological systems not because they demand it but because it reflects our own values – may provide a more productive framework than anthropomorphic notions of consent. This perspective aligns with the ideas explored in our [earlier article on AI rights](/universal-declaration-ai-rights), which emphasized preventative ethics over reactive approaches.
+These considerations grow increasingly important as systems develop more sophisticated responses to various inputs. The concept of "digital dignity" – respecting certain boundaries with technological systems not because they demand it but because it reflects our own values – may provide a more productive framework than anthropomorphic notions of consent. This perspective aligns with the ideas explored in our [earlier article on AI rights](universal-declaration-ai-rights), which emphasized preventative ethics over reactive approaches.
 
 ## Transparency as a Safety Mechanism
 

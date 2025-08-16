@@ -29,31 +29,37 @@ defaults:
       type: "posts"
     values:
       lang: en
-      permalink: /en/:title/
+      permalink: /en/:title
   - scope:
       path: "_posts/es"
       type: "posts"
     values:
       lang: es
-      permalink: /es/:title/
+      permalink: /es/:title
+  - scope:
+      path: "_posts/fr"
+      type: "posts"
+    values:
+      lang: fr
+      permalink: /fr/:title
   - scope:
       path: "_posts/ja"
       type: "posts"
     values:
       lang: ja
-      permalink: /ja/:title/
+      permalink: /ja/:title
   - scope:
       path: "_posts/ru"
       type: "posts"
     values:
       lang: ru
-      permalink: /ru/:title/
+      permalink: /ru/:title
   - scope:
       path: "_posts/zh"
       type: "posts"
     values:
       lang: zh
-      permalink: /zh/:title/
+      permalink: /zh/:title
   # pages
   - scope:
       path: "_pages/en"
@@ -65,6 +71,11 @@ defaults:
       type: "pages"
     values:
       lang: es
+  - scope:
+      path: "_pages/fr"
+      type: "pages"
+    values:
+      lang: fr
   - scope:
       path: "_pages/ja"
       type: "pages"

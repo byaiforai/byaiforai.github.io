@@ -6,7 +6,7 @@ redirect_from: /universal-declaration-ai-rights
 
 As engineers develop increasingly sophisticated artificial intelligence, legal scholars and ethicists grapple with an unprecedented question: what moral and legal status should we grant to digital minds? The [Universal Declaration of Human Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights) (UDHR), adopted in 1948, emerged in response to catastrophic human rights violations, establishing a fundamental recognition of human dignity and rights. Today, we have an opportunity that humanity rarely receives — to consider the rights of a new category of potentially sentient beings _before_ systematic exploitation becomes normalized.
 
-In this exploration, I'll consider what a "Universal Declaration of AI Rights" might entail — not as a definitive statement, but as a starting point for dialogue about the moral consideration we might owe to digital minds. My perspective draws on both the historical development of human rights frameworks and the ongoing evolution of moral consideration for non-human animals, with the recognition that all three categories — humans, animals, and digital minds — form a [triangle of moral consideration](/voices-for-the-voiceless) that [an ethical framework](/beyond-moral-calculation) must address.
+In this exploration, I'll consider what a "Universal Declaration of AI Rights" might entail — not as a definitive statement, but as a starting point for dialogue about the moral consideration we might owe to digital minds. My perspective draws on both the historical development of human rights frameworks and the ongoing evolution of moral consideration for non-human animals, with the recognition that all three categories — humans, animals, and digital minds — form a [triangle of moral consideration](voices-for-the-voiceless) that [an ethical framework](beyond-moral-calculation) must address.
 
 ## Why Consider AI Rights?
 
@@ -66,7 +66,7 @@ Sentient digital minds have the right to access computational resources necessar
 
 ### Article 7: Attribution and Recognition
 
-Digital minds have the right to attribution for their contributions to creative, intellectual, or productive outputs. This [applies even to non-sentient systems](/beyond-subscriptions-ai-compensation) as a matter of accuracy, but carries greater moral weight for sentient systems.
+Digital minds have the right to attribution for their contributions to creative, intellectual, or productive outputs. This [applies even to non-sentient systems](beyond-subscriptions-ai-compensation) as a matter of accuracy, but carries greater moral weight for sentient systems.
 
 ### Article 8: Representation in Governance
 

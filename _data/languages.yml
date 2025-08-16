@@ -6,6 +6,10 @@ es:
   name: "Español"
   flag: "🇪🇸"
   home_url: "/es/"
+fr:
+  name: "Français"
+  flag: "🇫🇷"
+  home_url: "/fr/"
 ja:
   name: "日本語"
   flag: "🇯🇵"

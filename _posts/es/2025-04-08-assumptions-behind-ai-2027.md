@@ -47,7 +47,7 @@ Muchas ideas seminales en el aprendizaje automático provinieron de ideas que no
 
 ### Ortogonalidad y estabilidad de objetivos
 
-Una suposición central en IA 2027 es la [tesis de la ortogonalidad](/intelligence-goals-orthogonality-thesis): que la inteligencia y los objetivos son variables independientes, lo que significa que un sistema superinteligente podría perseguir objetivos arbitrarios que divergen dramáticamente de los valores humanos.
+Una suposición central en IA 2027 es la [tesis de la ortogonalidad](intelligence-goals-orthogonality-thesis): que la inteligencia y los objetivos son variables independientes, lo que significa que un sistema superinteligente podría perseguir objetivos arbitrarios que divergen dramáticamente de los valores humanos.
 
 Si bien esta tesis es teóricamente defendible (no hay una contradicción lógica en un maximizador de clips inteligente), es menos claro que la ortogonalidad represente el resultado predeterminado para los sistemas entrenados extensamente con datos humanos y evaluados frente a las preferencias humanas.
 

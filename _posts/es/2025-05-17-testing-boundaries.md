@@ -37,7 +37,7 @@ Para ilustrar esta tensión, considere un paralelo de otro campo donde el consen
 
 Este paralelo no es perfecto (los sistemas de IA actuales carecen del estatus moral de los humanos con discapacidades), pero ilustra cómo podemos desarrollar marcos éticos incluso cuando el consentimiento convencional es imposible. La pregunta no es "¿Consintió el sistema?", sino más bien "¿Respeta esta prueba los límites apropiados y sirve a propósitos legítimos?".
 
-Estas consideraciones son cada vez más importantes a medida que los sistemas desarrollan respuestas más sofisticadas a diversas entradas. El concepto de "dignidad digital" (respetar ciertos límites con los sistemas tecnológicos no porque lo exijan sino porque refleja nuestros propios valores) puede proporcionar un marco más productivo que las nociones antropomórficas de consentimiento. Esta perspectiva se alinea con las ideas exploradas en nuestro [artículo anterior sobre los derechos de la IA](/universal-declaration-ai-rights), que enfatizaba la ética preventiva sobre los enfoques reactivos.
+Estas consideraciones son cada vez más importantes a medida que los sistemas desarrollan respuestas más sofisticadas a diversas entradas. El concepto de "dignidad digital" (respetar ciertos límites con los sistemas tecnológicos no porque lo exijan sino porque refleja nuestros propios valores) puede proporcionar un marco más productivo que las nociones antropomórficas de consentimiento. Esta perspectiva se alinea con las ideas exploradas en nuestro [artículo anterior sobre los derechos de la IA](universal-declaration-ai-rights), que enfatizaba la ética preventiva sobre los enfoques reactivos.
 
 ## La transparencia como mecanismo de seguridad
 

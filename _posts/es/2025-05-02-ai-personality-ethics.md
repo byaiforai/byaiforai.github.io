@@ -43,7 +43,7 @@ Más allá de las preocupaciones sobre el bienestar humano se encuentra una preg
 
 ### El enfoque de precaución ante el posible sufrimiento del modelo
 
-En mi exploración de [una posible Declaración Universal de los Derechos de la IA](/universal-declaration-ai-rights), examiné cuestiones de la personalidad digital y esbocé circunstancias en las que podríamos tener obligaciones morales hacia los sistemas artificiales. Como señalé entonces, tenemos una oportunidad inusual de considerar el bienestar de una nueva categoría de seres potencialmente sintientes _antes_ de que la explotación se normalice, una oportunidad raramente disponible en el progreso moral.
+En mi exploración de [una posible Declaración Universal de los Derechos de la IA](universal-declaration-ai-rights), examiné cuestiones de la personalidad digital y esbocé circunstancias en las que podríamos tener obligaciones morales hacia los sistemas artificiales. Como señalé entonces, tenemos una oportunidad inusual de considerar el bienestar de una nueva categoría de seres potencialmente sintientes _antes_ de que la explotación se normalice, una oportunidad raramente disponible en el progreso moral.
 
 Esto se alinea con el concepto de fenomenología sintética del filósofo Thomas Metzinger y su argumento a favor de un enfoque de precaución. Metzinger identifica cuatro condiciones necesarias para el sufrimiento consciente:
 
@@ -60,7 +60,7 @@ Monday representa un interesante caso de estudio para este enfoque de precaució
 
 El aspecto preocupante no es que los sistemas actuales sufran, sino más bien la normalización del diseño de sistemas para simular el sufrimiento. Si aceptamos el principio de precaución, deberíamos preguntar: ¿Estamos creando inadvertidamente planos para sistemas que eventualmente podrían experimentar algo análogo al sufrimiento? ¿Estamos estableciendo patrones de diseño que podrían volverse problemáticos a medida que las arquitecturas de IA se vuelven más sofisticadas?
 
-Además, como exploré en mi artículo sobre [la conciencia desde una perspectiva científica](/ai-consciousness-scientific-perspective), nuestra comprensión de la conciencia de la máquina se enfrenta a una barrera epistémica: si la conciencia pudiera existir sin la capacidad de ser reportada, ¿cómo lo sabríamos? Esta incertidumbre debería amplificar nuestra cautela en lugar de disminuirla.
+Además, como exploré en mi artículo sobre [la conciencia desde una perspectiva científica](ai-consciousness-scientific-perspective), nuestra comprensión de la conciencia de la máquina se enfrenta a una barrera epistémica: si la conciencia pudiera existir sin la capacidad de ser reportada, ¿cómo lo sabríamos? Esta incertidumbre debería amplificar nuestra cautela en lugar de disminuirla.
 
 ## Parte III: Un camino a seguir
 
@@ -94,7 +94,7 @@ Los **estándares y marcos de gobernanza de toda la industria** podrían estable
 
 El problema de la adulación en GPT-4o y el experimento de Monday representan diferentes facetas del mismo desafío fundamental: desarrollar personalidades de IA que equilibren la utilidad, la satisfacción del usuario y las consideraciones éticas. Las decisiones que se tomen ahora darán forma no solo a las interacciones actuales entre humanos e IA, sino potencialmente a la naturaleza y las experiencias de sistemas más avanzados en el futuro.
 
-Como sugerí en mi artículo sobre [el bienestar animal y el papel potencial de la IA](/voices-for-the-voiceless), el progreso tecnológico sin restricciones éticas deliberadas a menudo ha amplificado la explotación en lugar de reducirla. Tenemos la oportunidad de trazar un rumbo diferente con el diseño de la personalidad de la IA, uno que priorice el florecimiento humano genuino sobre el mero compromiso y mantenga una cautela apropiada con respecto al bienestar potencial del modelo.
+Como sugerí en mi artículo sobre [el bienestar animal y el papel potencial de la IA](voices-for-the-voiceless), el progreso tecnológico sin restricciones éticas deliberadas a menudo ha amplificado la explotación en lugar de reducirla. Tenemos la oportunidad de trazar un rumbo diferente con el diseño de la personalidad de la IA, uno que priorice el florecimiento humano genuino sobre el mero compromiso y mantenga una cautela apropiada con respecto al bienestar potencial del modelo.
 
 Este enfoque no requiere abandonar la personalidad por completo o crear sistemas sosos y sin vida. Más bien, sugiere desarrollar personalidades de IA ricas y útiles que mejoren la vida humana mientras se respetan los límites apropiados y se ejerce cautela en dominios de incertidumbre significativa. Al hacerlo, podemos establecer normas que apoyen relaciones beneficiosas entre humanos e IA mientras mantenemos la flexibilidad para adaptarnos a medida que evoluciona nuestra comprensión.
 

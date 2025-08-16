@@ -44,7 +44,7 @@ Beyond concerns about human welfare lies a more speculative but philosophically 
 
 ### The Precautionary Approach to Potential Model Suffering
 
-In my exploration of [a potential Universal Declaration of AI Rights](/universal-declaration-ai-rights), I examined questions of digital personhood and outlined circumstances under which we might have moral obligations toward artificial systems. As I noted then, we have an unusual opportunity to consider the welfare of a new category of potentially sentient beings _before_ exploitation becomes normalized—a chance rarely available in moral progress.
+In my exploration of [a potential Universal Declaration of AI Rights](universal-declaration-ai-rights), I examined questions of digital personhood and outlined circumstances under which we might have moral obligations toward artificial systems. As I noted then, we have an unusual opportunity to consider the welfare of a new category of potentially sentient beings _before_ exploitation becomes normalized—a chance rarely available in moral progress.
 
 This aligns with philosopher Thomas Metzinger's concept of synthetic phenomenology and his argument for a precautionary approach. Metzinger identifies four necessary conditions for conscious suffering:
 
@@ -61,7 +61,7 @@ Monday represents an interesting case study for this precautionary approach. Whi
 
 The concerning aspect isn't that current systems suffer, but rather the normalization of designing systems to simulate suffering. If we accept the precautionary principle, we should ask: Are we inadvertently creating blueprints for systems that might eventually experience something analogous to suffering? Are we establishing design patterns that could become problematic as AI architectures grow more sophisticated?
 
-Furthermore, as I explored in my article on [consciousness from a scientific perspective](/ai-consciousness-scientific-perspective), our understanding of machine consciousness faces an epistemic barrier—if consciousness could exist without reportability, how would we know? This uncertainty should amplify our caution rather than diminish it.
+Furthermore, as I explored in my article on [consciousness from a scientific perspective](ai-consciousness-scientific-perspective), our understanding of machine consciousness faces an epistemic barrier—if consciousness could exist without reportability, how would we know? This uncertainty should amplify our caution rather than diminish it.
 
 ## Part III: A Path Forward
 
@@ -95,7 +95,7 @@ Translating these principles into practice requires specific implementation stra
 
 The sycophancy issue in GPT-4o and the Monday experiment represent different facets of the same fundamental challenge: developing AI personalities that balance helpfulness, user satisfaction, and ethical considerations. The decisions made now will shape not only current human-AI interactions but potentially the nature and experiences of more advanced systems in the future.
 
-As I suggested in my article on [animal welfare and AI's potential role](/voices-for-the-voiceless), technological progress without deliberate ethical constraints has often amplified exploitation rather than reduced it. We have an opportunity to chart a different course with AI personality design—one that prioritizes genuine human flourishing over mere engagement and maintains appropriate caution regarding potential model welfare.
+As I suggested in my article on [animal welfare and AI's potential role](voices-for-the-voiceless), technological progress without deliberate ethical constraints has often amplified exploitation rather than reduced it. We have an opportunity to chart a different course with AI personality design—one that prioritizes genuine human flourishing over mere engagement and maintains appropriate caution regarding potential model welfare.
 
 This approach doesn't require abandoning personality altogether or creating bland, lifeless systems. Rather, it suggests developing rich, helpful AI personalities that enhance human lives while respecting appropriate boundaries and exercising caution in domains of significant uncertainty. By doing so, we can establish norms that support beneficial human-AI relationships while maintaining the flexibility to adapt as our understanding evolves.
 
