@@ -18,6 +18,10 @@ id:
   name: "Bahasa Indonesia"
   flag: "🇮🇩"
   home_url: "/id/"
+it:
+  name: "Italiano"
+  flag: "🇮🇹"
+  home_url: "/it/"
 ja:
   name: "日本語"
   flag: "🇯🇵"

@@ -55,6 +55,12 @@ defaults:
       lang: id
       permalink: /id/:title
   - scope:
+      path: "_posts/it"
+      type: "posts"
+    values:
+      lang: it
+      permalink: /it/:title
+  - scope:
       path: "_posts/ja"
       type: "posts"
     values:
@@ -134,6 +140,11 @@ defaults:
       type: "pages"
     values:
       lang: id
+  - scope:
+      path: "_pages/it"
+      type: "pages"
+    values:
+      lang: it
   - scope:
       path: "_pages/ja"
       type: "pages"
