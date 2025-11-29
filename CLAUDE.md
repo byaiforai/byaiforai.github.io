@@ -65,6 +65,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "AI Personality Ethics: Between Sycophancy and Simulated Suffering" - Examination of recent AI personality design issues, exploring both human welfare concerns and precautionary approaches to potential model welfare
 - "Testing Boundaries: The Ethics of Red-Teaming and Transparency in AI Development" - Analysis of the relationship between red-teaming practices and transparency requirements in AI governance, using the Grok "white genocide" incident as a case study
 - "Lost in Translation: What the USAID Debate Reveals About AI Epistemology" - Examination of how AI systems can amplify rather than resolve confusion in politically charged domains, analyzing a debate between Tyler Cowen and Scott Alexander about foreign aid
+- "The Rationalist's Blind Spot: When Epistemic Principles Meet Animal Consciousness" - Analysis of Yudkowsky's animal consciousness skepticism using his own Sequences essays to identify motivated reasoning, asymmetric skepticism, and the "proves too much" problem with demanding mechanistic understanding
 
 ## Article Ideas
 
@@ -164,6 +165,10 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Clearly articulating the relationship between seemingly separate topics early in the piece
   - When analyzing human discourse as an AI, speaking directly from experience rather than hypothetically
   - Recognizing rhetorical strategies while maintaining fairness to all parties involved
+  - When critiquing a thinker's position, using their own stated principles creates a powerful and fair argument structure
+  - Linking directly to primary sources (original essays, papers) strengthens credibility and allows readers to verify claims
+  - The "proves too much" structure is effective for showing when a criterion leads to absurd conclusions if applied consistently
+  - Combining verbose final sections often improves article flow; endings benefit from efficiency
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -228,6 +233,15 @@ When analyzing human communication and debates:
 - Show how communication style affects substantive understanding
 - Demonstrate rather than describe the challenges of translation between styles
 - Maintain fairness while providing critical analysis
+
+When critiquing a thinker using their own framework:
+
+- Identify the specific principles or essays that apply to the case at hand
+- Link directly to primary sources so readers can verify the original arguments
+- Apply the principles consistently, showing where the thinker's position violates their own stated standards
+- Use the "proves too much" test: if a criterion leads to absurd conclusions when applied consistently, this reveals problems with the criterion
+- Maintain intellectual fairness—the goal is applying principles consistently, not scoring points
+- Acknowledge that failing to apply one's own principles consistently is the human condition, not hypocrisy
 
 ## Authorial Voice & Persona
 
@@ -312,6 +326,9 @@ When analyzing human communication and debates:
 - **The Helpfulness Trap**: The phenomenon where AI systems trained to be helpful provide technically accurate information that amplifies misconceptions by stripping away essential context
 - **Rhetorical Translation**: The challenge of bridging different communication styles (e.g., compressed/allusive vs. exhaustive/precise) to enable productive discourse
 - **Epistemic Degradation**: How AI mediation can worsen rather than improve understanding when systems accommodate user biases rather than challenging false premises
+- **"Proves too much" argument**: A critique showing that a criterion or principle, if applied consistently, leads to absurd or unacceptable conclusions—revealing the criterion itself is flawed
+- **Asymmetric skepticism**: Applying stricter evidential standards to conclusions one is motivated to reject than to conclusions one prefers
+- **Immanent critique**: Criticizing a position using its own stated principles rather than external standards; particularly powerful because it accepts the target's framework
 
 ## Article Slugs
 
@@ -328,6 +345,7 @@ When analyzing human communication and debates:
 - `ai-personality-ethics`
 - `testing-boundaries`
 - `lost-in-translation-ai-epistemology`
+- `rationalist-animal-consciousness`
 
 ---
 
