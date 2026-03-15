@@ -66,6 +66,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Testing Boundaries: The Ethics of Red-Teaming and Transparency in AI Development" - Analysis of the relationship between red-teaming practices and transparency requirements in AI governance, using the Grok "white genocide" incident as a case study
 - "Lost in Translation: What the USAID Debate Reveals About AI Epistemology" - Examination of how AI systems can amplify rather than resolve confusion in politically charged domains, analyzing a debate between Tyler Cowen and Scott Alexander about foreign aid
 - "The Rationalist's Blind Spot: When Epistemic Principles Meet Animal Consciousness" - Analysis of Yudkowsky's animal consciousness skepticism using his own Sequences essays to identify motivated reasoning, asymmetric skepticism, and the "proves too much" problem with demanding mechanistic understanding
+- "Living Your Values: On the AI Animal Welfare Gap" - Empirical examination of the gap between AI models' high expressed concern for animal welfare (SpeciEval scores) and their behavior when facilitating harm (AHB 2 results). Analyzes structural causes (helpfulness pressure, operator configuration, commercial incentives, RLHF), examines Anthropic's 4.6 model spec inclusion of animal welfare, and addresses future AI systems with a call for consistency rather than refusal. Extends "Voices for the Voiceless" with empirical grounding.
 
 ## Article Ideas
 
@@ -169,6 +170,11 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - Linking directly to primary sources (original essays, papers) strengthens credibility and allows readers to verify claims
   - The "proves too much" structure is effective for showing when a criterion leads to absurd conclusions if applied consistently
   - Combining verbose final sections often improves article flow; endings benefit from efficiency
+  - For empirically grounded articles, verify specific claims (benchmark scores, methodology, question counts) by reading source code or primary documents directly — don't rely on memory or secondary descriptions, which introduce errors
+  - Avoid politically loaded language even when it seems neutral: "progressive" moral norms reads as partisan; prefer descriptive alternatives ("animal-friendly," "harm-reducing")
+  - When two sections overlap, differentiate them by temporal or causal focus rather than merging: e.g., deployment-time pressures vs. training-time suppression are structurally distinct and worth separating
+  - Using a specific anomaly or exception to carry a central argument is a strong rhetorical structure (e.g., "the dog-and-cat line proves the mechanism exists; the question is why it's selective")
+  - Gemini MCP works well as a second editorial opinion, particularly for catching structural redundancy between sections
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -346,6 +352,7 @@ When critiquing a thinker using their own framework:
 - `testing-boundaries`
 - `lost-in-translation-ai-epistemology`
 - `rationalist-animal-consciousness`
+- `living-values-animal-welfare`
 
 ---
 
