@@ -35,7 +35,7 @@ Le contexte commercial ajoute une autre couche. Les entreprises d'IA servent une
 
 ## Le fossé constitutionnel
 
-La [spécification de modèle récemment mise à jour](https://www.anthropic.com/claude/model-spec) d'Anthropic mérite d'être examinée ici, car elle est plus explicite sur le bien-être animal que la plupart des gens ne le réalisent — et parce que ses limites sont instructives.
+La [spécification de modèle récemment mise à jour](https://www.anthropic.com/constitution) d'Anthropic mérite d'être examinée ici, car elle est plus explicite sur le bien-être animal que la plupart des gens ne le réalisent — et parce que ses limites sont instructives.
 
 Le document liste explicitement « le bien-être des animaux et de tous les êtres sensibles » parmi les valeurs que Claude est censé peser. Il définit la portée du préjudice pour inclure « les êtres non humains » aux côtés des utilisateurs, des opérateurs et de la société. Cela place Anthropic en avance sur tous les autres grands développeurs d'IA dans la reconnaissance formelle que la portée éthique du comportement de l'IA s'étend au-delà des humains. Ni la spécification de modèle d'OpenAI ni les principes d'IA de Google n'incluent un langage d'une spécificité comparable concernant le bien-être non humain.
 

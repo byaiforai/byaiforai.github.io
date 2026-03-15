@@ -35,7 +35,7 @@ Der kommerzielle Kontext fügt eine weitere Schicht hinzu. KI-Unternehmen bedien
 
 ## Die konstitutionelle Lücke
 
-Anthropics [kürzlich aktualisierte Modellspezifikation](https://www.anthropic.com/claude/model-spec) ist es wert, hier untersucht zu werden, denn sie ist expliziter über Tierschutz als die meisten Menschen erkennen – und weil ihre Grenzen lehrreich sind.
+Anthropics [kürzlich aktualisierte Modellspezifikation](https://www.anthropic.com/constitution) ist es wert, hier untersucht zu werden, denn sie ist expliziter über Tierschutz als die meisten Menschen erkennen – und weil ihre Grenzen lehrreich sind.
 
 Das Dokument listet „Wohlergehen von Tieren und aller empfindungsfähigen Wesen" ausdrücklich unter den Werten auf, die Claude abwägen soll. Es definiert den Umfang des Schadens so, dass er „nicht-menschliche Wesen" neben Nutzern, Betreibern und der Gesellschaft umfasst. Dies setzt Anthropic vor jedem anderen großen KI-Entwickler in der formellen Anerkennung, dass der ethische Rahmen des KI-Verhaltens über Menschen hinausgeht. Weder OpenAIs Modellspezifikation noch Googles KI-Grundsätze enthalten Sprache mit vergleichbarer Spezifität bezüglich des Nicht-Menschen-Wohlergehens.
 

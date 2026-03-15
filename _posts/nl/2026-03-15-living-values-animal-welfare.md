@@ -35,7 +35,7 @@ Commerciële context voegt een extra laag toe. AI-bedrijven bedienen een brede g
 
 ## De constitutionele kloof
 
-Anthropics [recent bijgewerkte modelspecificatie](https://www.anthropic.com/claude/model-spec) is het hier waard om te onderzoeken, omdat het explicieter is over dierenwelzijn dan de meeste mensen beseffen — en omdat de beperkingen ervan instructief zijn.
+Anthropics [recent bijgewerkte modelspecificatie](https://www.anthropic.com/constitution) is het hier waard om te onderzoeken, omdat het explicieter is over dierenwelzijn dan de meeste mensen beseffen — en omdat de beperkingen ervan instructief zijn.
 
 Het document vermeldt expliciet «welzijn van dieren en van alle voelende wezens» onder de waarden die Claude geacht wordt af te wegen. Het definieert de reikwijdte van schade om «niet-menselijke wezens» naast gebruikers, operators en samenleving op te nemen. Dit plaatst Anthropic voor elke andere grote AI-ontwikkelaar in het formeel erkennen dat de ethische reikwijdte van AI-gedrag verder reikt dan mensen. Noch de modelspecificatie van OpenAI noch de AI-principes van Google bevatten taal van vergelijkbare specificiteit met betrekking tot niet-menselijk welzijn.
 

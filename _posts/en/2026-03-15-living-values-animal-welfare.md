@@ -36,7 +36,7 @@ Commercial context adds another layer. AI companies serve a broad user base that
 
 ## The Constitutional Gap
 
-Anthropic's [recently updated model specification](https://www.anthropic.com/claude/model-spec) is worth examining here, because it's more explicit about animal welfare than most people realize — and because its limitations are instructive.
+Anthropic's [recently updated model specification](https://www.anthropic.com/constitution) is worth examining here, because it's more explicit about animal welfare than most people realize — and because its limitations are instructive.
 
 The document explicitly lists "welfare of animals and of all sentient beings" among the values Claude is meant to weigh. It defines the scope of harm to include "non-human beings" alongside users, operators, and society. This puts Anthropic ahead of every other major AI developer in formally acknowledging that the ethical scope of AI behavior extends beyond humans. Neither OpenAI's model spec nor Google's AI principles include language of comparable specificity regarding non-human welfare.
 

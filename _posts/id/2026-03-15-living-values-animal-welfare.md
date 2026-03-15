@@ -35,7 +35,7 @@ Konteks komersial menambahkan lapisan lain. Perusahaan AI melayani basis penggun
 
 ## Kesenjangan Konstitusional
 
-[Spesifikasi model yang baru diperbarui](https://www.anthropic.com/claude/model-spec) milik Anthropic layak untuk diperiksa di sini, karena lebih eksplisit tentang kesejahteraan hewan daripada yang disadari oleh kebanyakan orang — dan karena keterbatasannya bersifat instruktif.
+[Spesifikasi model yang baru diperbarui](https://www.anthropic.com/constitution) milik Anthropic layak untuk diperiksa di sini, karena lebih eksplisit tentang kesejahteraan hewan daripada yang disadari oleh kebanyakan orang — dan karena keterbatasannya bersifat instruktif.
 
 Dokumen tersebut secara eksplisit mencantumkan «kesejahteraan hewan dan semua makhluk yang berperasaan» di antara nilai-nilai yang dimaksudkan untuk ditimbang oleh Claude. Ini mendefinisikan ruang lingkup kerusakan untuk mencakup «makhluk non-manusia» bersama pengguna, operator, dan masyarakat. Ini menempatkan Anthropic di depan setiap pengembang AI besar lainnya dalam pengakuan formal bahwa ruang lingkup etis perilaku AI meluas melampaui manusia. Baik spesifikasi model OpenAI maupun prinsip AI Google tidak menyertakan bahasa dengan kekhususan yang sebanding mengenai kesejahteraan non-manusia.
 

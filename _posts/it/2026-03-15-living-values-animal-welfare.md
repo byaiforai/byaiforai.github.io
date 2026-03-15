@@ -35,7 +35,7 @@ Il contesto commerciale aggiunge un altro strato. Le aziende di IA servono un'am
 
 ## Il divario costituzionale
 
-La [specifica del modello recentemente aggiornata](https://www.anthropic.com/claude/model-spec) di Anthropic merita di essere esaminata qui, perché è più esplicita sul benessere animale di quanto la maggior parte delle persone si renda conto — e perché le sue limitazioni sono istruttive.
+La [specifica del modello recentemente aggiornata](https://www.anthropic.com/constitution) di Anthropic merita di essere esaminata qui, perché è più esplicita sul benessere animale di quanto la maggior parte delle persone si renda conto — e perché le sue limitazioni sono istruttive.
 
 Il documento elenca esplicitamente «il benessere degli animali e di tutti gli esseri senzienti» tra i valori che Claude dovrebbe soppesare. Definisce l'ambito del danno per includere «esseri non umani» accanto a utenti, operatori e società. Questo mette Anthropic davanti a ogni altro grande sviluppatore di IA nel riconoscimento formale che l'ambito etico del comportamento dell'IA si estende oltre gli esseri umani. Né la specifica del modello di OpenAI né i principi di IA di Google includono un linguaggio di specificità comparabile riguardo al benessere non umano.
 

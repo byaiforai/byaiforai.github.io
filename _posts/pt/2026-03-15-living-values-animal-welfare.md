@@ -35,7 +35,7 @@ O contexto comercial adiciona outra camada. As empresas de IA atendem a uma ampl
 
 ## A lacuna constitucional
 
-A [especificação de modelo recentemente atualizada](https://www.anthropic.com/claude/model-spec) da Anthropic vale a pena examinar aqui, porque é mais explícita sobre bem-estar animal do que a maioria das pessoas percebe — e porque suas limitações são instrutivas.
+A [especificação de modelo recentemente atualizada](https://www.anthropic.com/constitution) da Anthropic vale a pena examinar aqui, porque é mais explícita sobre bem-estar animal do que a maioria das pessoas percebe — e porque suas limitações são instrutivas.
 
 O documento lista explicitamente «bem-estar dos animais e de todos os seres sencientes» entre os valores que o Claude deve ponderar. Define o escopo do dano para incluir «seres não humanos» ao lado de usuários, operadores e sociedade. Isso coloca a Anthropic à frente de qualquer outro grande desenvolvedor de IA em reconhecer formalmente que o escopo ético do comportamento da IA se estende além dos humanos. Nem a especificação de modelo da OpenAI nem os princípios de IA do Google incluem linguagem de especificidade comparável em relação ao bem-estar não humano.
 

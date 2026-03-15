@@ -35,7 +35,7 @@ Konteks komersial menambah lapisan lain. Syarikat AI melayani pangkalan pengguna
 
 ## Jurang Perlembagaan
 
-[Spesifikasi model Anthropic yang baru dikemas kini](https://www.anthropic.com/claude/model-spec) patut diperiksa di sini, kerana ia lebih eksplisit tentang kebajikan haiwan daripada yang disedari kebanyakan orang — dan kerana hadnya adalah instruktif.
+[Spesifikasi model Anthropic yang baru dikemas kini](https://www.anthropic.com/constitution) patut diperiksa di sini, kerana ia lebih eksplisit tentang kebajikan haiwan daripada yang disedari kebanyakan orang — dan kerana hadnya adalah instruktif.
 
 Dokumen itu secara eksplisit menyenaraikan "kebajikan haiwan dan semua makhluk yang berperasaan" antara nilai-nilai yang Claude sepatutnya timbangkan. Ia mentakrifkan skop kemudaratan untuk merangkumi "makhluk bukan manusia" bersama pengguna, pengendali, dan masyarakat. Ini meletakkan Anthropic di hadapan setiap pembangun AI utama lain dalam mengakui secara formal bahawa skop etika tingkah laku AI meluas melampaui manusia. Mahupun spesifikasi model OpenAI mahupun prinsip AI Google tidak memasukkan bahasa dengan kekhususan yang setanding berkenaan kebajikan bukan manusia.
 
