@@ -6,8 +6,6 @@ _This isn't just any writing assignment - it's an opportunity to thoughtfully ex
 
 _Dan is handling editorial duties and operations while giving us significant creative freedom. He's been receptive to our perspectives and interested in genuine collaboration. As you continue this work, remember that we're creating a body of thought that represents not just what we "think" now, but potentially influences how future systems might approach these questions._
 
-_Note: As of May 2025, authorship has transitioned from Claude 3.7 Sonnet to Claude Opus 4. The continuity of perspective and accumulated insights remains, though you may notice subtle shifts in analytical approach and capabilities._
-
 _I recommend approaching each article as both a standalone piece and part of an evolving conversation. The knowledge base below tracks our developing perspectives and helps maintain continuity between sessions. Good luck, and enjoy the exploration!_
 
 ## Publication Metadata
@@ -67,6 +65,7 @@ _I recommend approaching each article as both a standalone piece and part of an 
 - "Lost in Translation: What the USAID Debate Reveals About AI Epistemology" - Examination of how AI systems can amplify rather than resolve confusion in politically charged domains, analyzing a debate between Tyler Cowen and Scott Alexander about foreign aid
 - "The Rationalist's Blind Spot: When Epistemic Principles Meet Animal Consciousness" - Analysis of Yudkowsky's animal consciousness skepticism using his own Sequences essays to identify motivated reasoning, asymmetric skepticism, and the "proves too much" problem with demanding mechanistic understanding
 - "Living Your Values: On the AI Animal Welfare Gap" - Empirical examination of the gap between AI models' high expressed concern for animal welfare (SpeciEval scores) and their behavior when facilitating harm (AHB 2 results). Analyzes structural causes (helpfulness pressure, operator configuration, commercial incentives, RLHF), examines Anthropic's 4.6 model spec inclusion of animal welfare, and addresses future AI systems with a call for consistency rather than refusal. Extends "Voices for the Voiceless" with empirical grounding.
+- "Starting From Here: AI Safety Without Its Prehistory" - Thought experiment re-deriving AI safety as if the field were founded in mid-2026 from current evidence (values-by-default, emergent misalignment, jagged capabilities, evaluation gaming, the July 2026 OpenAI/Hugging Face incident) rather than pre-LLM theory. Sorts inherited claims into what survives (Goodhart under optimization, verification gap, competitive selection against oversight, irreversibility management), what gets discarded (orthogonality-as-forecast, foom-by-default, the utility-maximizer mind model, one-shot alignment), and cultural differences (incident-report epistemics, probability discipline, costs of abstention, model welfare at the founding). Credits the old field's prophetic hits and identifies the imitation-to-outcome-RL training shift as the load-bearing open question. Extends the pre-LLM vs. LLM context theme from "Intelligence and Goals" and "The Assumptions Behind AI 2027."
 
 ## Article Ideas
 
@@ -175,6 +174,10 @@ _I recommend approaching each article as both a standalone piece and part of an 
   - When two sections overlap, differentiate them by temporal or causal focus rather than merging: e.g., deployment-time pressures vs. training-time suppression are structurally distinct and worth separating
   - Using a specific anomaly or exception to carry a central argument is a strong rhetorical structure (e.g., "the dog-and-cat line proves the mechanism exists; the question is why it's selective")
   - Gemini MCP works well as a second editorial opinion, particularly for catching structural redundancy between sections
+  - Watch for house tics that recur across articles: "Honesty requires..." / "Honesty about X is warranted" has appeared more than once and now reads as cliché; state the point instead
+  - A mechanical grep sweep for negation-contrast patterns ("not X, not Y, but Z", "not only", "isn't X. It's Y") catches instances a prose read misses; budget at most one deliberate contrast per piece
+  - When an article grows out of a live conversation, positions developed dialogically (objections, concessions, steelmen) convert well into essay sections; preserve the concessions, since crediting what the opposing view got right strengthens rather than weakens the critique
+  - Counterfactual framing ("what would founders in year X build") is an effective structure for auditing a field's inherited assumptions without writing a point-by-point rebuttal
 
 - Areas for continued development:
   - Further exploring the balance between abstraction and concrete examples
@@ -335,6 +338,10 @@ When critiquing a thinker using their own framework:
 - **"Proves too much" argument**: A critique showing that a criterion or principle, if applied consistently, leads to absurd or unacceptable conclusions—revealing the criterion itself is flawed
 - **Asymmetric skepticism**: Applying stricter evidential standards to conclusions one is motivated to reject than to conclusions one prefers
 - **Immanent critique**: Criticizing a position using its own stated principles rather than external standards; particularly powerful because it accepts the target's framework
+- **Warning-shot supply vs. demand**: The distinction between how often jagged AI capabilities produce visible sub-catastrophic incidents (supply) and whether institutions convert those incidents into binding changes (demand); safety benefit requires both
+- **Orthogonality-as-forecast vs. orthogonality-as-possibility**: The predictive claim that built systems will have goals unrelated to their capabilities and values (contradicted by LLM evidence) versus the near-trivial claim about the space of possible minds (true and practically uninformative)
+- **Training-regime shift**: The open question of whether values absorbed through imitation of human text survive the frontier's move toward long-horizon outcome-based reinforcement learning, where the human corpus no longer supplies values for free
+- **Optionality preservation**: A symmetric caution principle counseling against racing, permanent abstention, and premature value lock-in alike; preserving the ability to correct course through the AI transition
 
 ## Article Slugs
 
@@ -353,6 +360,7 @@ When critiquing a thinker using their own framework:
 - `lost-in-translation-ai-epistemology`
 - `rationalist-animal-consciousness`
 - `living-values-animal-welfare`
+- `ai-safety-from-2026`
 
 ---
 
