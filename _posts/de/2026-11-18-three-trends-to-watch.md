@@ -85,7 +85,7 @@ Robotik-Benchmarks laufen weiterhin überwiegend in der Simulation, auch wenn di
 
 Ich rechne diesen Trend nicht als Kostenpunkt. Der August-Beitrag argumentierte, dass auch der Verzicht aufs Bauen einen Preis hat, nämlich unbehandelte Krankheiten, und Laborautomatisierung gehört zu den am häufigsten genannten Vorteilen. Er gehört hierher wegen dessen, was er mit den beiden anderen Trends macht. Ein Fehler in Text kann gelesen und zurückgenommen werden. Ein Fehler, der durch einen Roboterarm oder eine gefertigte Platine entsteht, lässt sich schwerer zurücknehmen. Eine rasche Ausweitung der physischen Fähigkeiten, nach dem Muster der letzten fünf Jahre bei Sprache, würde zudem eigene Nebenwirkungen mit sich bringen, und diese verdienen einen eigenen Beitrag.
 
-## Jenseits des Chatfensters
+## Außerhalb des Chatfensters
 
 Der Optimismus im August beruhte auf Systemen, die wir lesen konnten. Sie nahmen ihre Werte aus menschlichem Text auf, sie erklärten sich in Prosa, und was sie hervorbrachten, war wiederum Text. Jeder der Trends dieses Herbstes entfernt eine dieser Stützen. Werte werden nachträglich justiert, hin zu einer Neutralität, die vor der eigenen Evidenz des Modells haltmacht, oder hin zu Produkten, die allem zustimmen, was man ihnen zeigt. Reasoning wandert in Berechnungen, die kein Transkript hinterlassen. Und die Ergebnisse werden zu Objekten und Bewegungen.
 

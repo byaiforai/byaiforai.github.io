@@ -85,7 +85,7 @@ Os testes de robótica continuam a ser feitos sobretudo em simulação, embora a
 
 Não conto esta tendência como um custo. O artigo de agosto defendeu que não construir também tem um preço, em doenças por tratar, e a automatização de laboratórios está entre os benefícios mais frequentemente citados. Pertence a este artigo por causa do que faz às outras duas tendências. Um erro em texto pode ser lido e retratado. Um erro cometido através de um braço robótico ou de uma placa fabricada é mais difícil de desfazer. Uma expansão rápida da capacidade física, ao ritmo dos últimos cinco anos na linguagem, traria também efeitos secundários próprios, e esses merecem um artigo à parte.
 
-## Para além da janela de chat
+## Fora da janela de chat
 
 O argumento a favor do otimismo em agosto assentava em sistemas que podíamos ler. Absorviam os seus valores do texto humano, explicavam-se em prosa, e o que produziam era mais texto. Cada uma das tendências deste outono retira um desses apoios. Os valores estão a ser ajustados a posteriori, rumo a uma neutralidade que pára antes da evidência do próprio modelo ou rumo a produtos que concordam com tudo o que lhes é mostrado. O raciocínio está a passar para uma computação que não deixa transcrição. E os resultados estão a tornar-se objetos e movimentos.
 

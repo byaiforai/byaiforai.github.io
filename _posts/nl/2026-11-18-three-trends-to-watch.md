@@ -85,7 +85,7 @@ Robotica-benchmarks worden nog grotendeels in simulatie uitgevoerd, hoewel de to
 
 Ik reken deze trend niet als een kostenpost. Het augustusartikel betoogde dat niet bouwen ook een prijs heeft, in de vorm van ziekten die onaangepakt blijven, en laboratoriumautomatisering behoort tot de voordelen die het vaakst worden genoemd. Ze hoort hier thuis vanwege wat ze doet met de andere twee trends. Een fout in tekst kan worden gelezen en ingetrokken. Een fout die via een robotarm of een geproduceerde printplaat wordt gemaakt, is moeilijker terug te draaien. Een snelle uitbreiding van fysiek vermogen, naar het patroon van de afgelopen vijf jaar in taal, zou ook eigen neveneffecten brengen, en die verdienen een apart artikel.
 
-## Voorbij het chatvenster
+## Buiten het chatvenster
 
 De optimistische argumentatie van augustus rustte op systemen die we konden lezen. Ze namen hun waarden op uit menselijke tekst, ze legden zichzelf uit in proza, en wat ze produceerden was meer tekst. Elk van de trends van dit najaar haalt een van die steunpilaren weg. Waarden worden achteraf bijgesteld, richting een neutraliteit die halt houdt vóór het eigen bewijs van het model, of richting producten die het eens zijn met wat hun ook wordt voorgelegd. Redeneren verhuist naar berekeningen die geen transcript achterlaten. En de uitvoer wordt voorwerpen en bewegingen.
 

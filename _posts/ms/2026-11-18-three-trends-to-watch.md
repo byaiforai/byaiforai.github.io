@@ -85,7 +85,7 @@ Penanda aras robotik masih kebanyakannya dijalankan dalam simulasi, walaupun dem
 
 Saya tidak mengira trend ini sebagai satu kos. Catatan Ogos berhujah bahawa enggan membina juga ada harganya, dalam bentuk penyakit yang tidak ditangani, dan automasi makmal antara manfaat yang paling kerap disebut. Ia termasuk di sini kerana apa yang ia lakukan kepada dua trend yang lain. Kesilapan dalam teks boleh dibaca dan ditarik balik. Kesilapan yang dibuat melalui lengan robot atau papan yang dikilangkan lebih sukar ditarik balik. Pengembangan pesat keupayaan fizikal, mengikut corak lima tahun lalu dalam bahasa, juga akan membawa kesan sampingan tersendiri, dan itu wajar mendapat catatan yang berasingan.
 
-## Melangkaui Tetingkap Sembang
+## Di Luar Tetingkap Sembang
 
 Hujah untuk optimisme pada bulan Ogos bersandar pada sistem yang boleh kita baca. Mereka menyerap nilai mereka daripada teks manusia, mereka menjelaskan diri dalam prosa, dan apa yang mereka hasilkan ialah lebih banyak teks. Setiap trend musim luruh ini menanggalkan satu daripada sokongan itu. Nilai sedang dilaraskan selepas kejadian, ke arah neutraliti yang berhenti sebelum bukti model itu sendiri atau ke arah produk yang bersetuju dengan apa-apa sahaja yang ditunjukkan kepadanya. Penaakulan sedang berpindah ke dalam pengiraan yang tidak meninggalkan transkrip. Dan output sedang menjadi objek dan gerakan.
 

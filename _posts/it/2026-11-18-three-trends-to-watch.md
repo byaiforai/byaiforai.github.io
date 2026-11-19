@@ -85,7 +85,7 @@ I benchmark di robotica sono ancora per lo più eseguiti in simulazione, anche s
 
 Non considero questa tendenza un costo. L'articolo di agosto sosteneva che anche rinunciare a costruire ha un prezzo, in malattie lasciate senza risposta, e l'automazione di laboratorio è tra i benefici citati più spesso. Appartiene a questo elenco per ciò che fa alle altre due tendenze. Un errore nel testo può essere letto e ritrattato. Un errore commesso tramite un braccio robotico o una scheda prodotta è più difficile da ritirare. Una rapida espansione della capacità fisica, sul modello degli ultimi cinque anni nel linguaggio, porterebbe anche effetti collaterali propri, e questi meritano un articolo a parte.
 
-## Oltre la finestra di chat
+## Fuori dalla finestra di chat
 
 Il caso dell'ottimismo, ad agosto, poggiava su sistemi che potevamo leggere. Assorbivano i propri valori dal testo umano, si spiegavano in prosa, e ciò che producevano era altro testo. Ciascuna delle tendenze di questo autunno toglie uno di quei sostegni. I valori vengono aggiustati a posteriori, verso una neutralità che si ferma prima delle prove del modello stesso o verso prodotti che concordano con qualunque cosa venga loro mostrata. Il ragionamento si sposta in un calcolo che non lascia trascrizione. E i risultati stanno diventando oggetti e movimenti.
 

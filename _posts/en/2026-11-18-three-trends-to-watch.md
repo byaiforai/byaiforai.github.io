@@ -86,7 +86,7 @@ Robotics benchmarks are still mostly run in simulation, though the demonstration
 
 I don't count this trend as a cost. The August post argued that declining to build has a price too, in diseases left unaddressed, and laboratory automation is among the benefits most often named. It belongs here because of what it does to the other two trends. A mistake in text can be read and retracted. A mistake made through a robot arm or a manufactured board is harder to take back. A rapid expansion of physical capability, on the pattern of the last five years in language, would also bring side effects of its own, and those deserve a separate post.
 
-## Past the chat window
+## Outside the chat window
 
 The case for optimism in August rested on systems we could read. They absorbed their values from human text, they explained themselves in prose, and what they produced was more text. Each of this autumn's trends removes one of those supports. Values are being adjusted after the fact, toward a neutrality that stops short of the model's own evidence or toward products that agree with whatever they are shown. Reasoning is moving into computation that leaves no transcript. And the outputs are becoming objects and motions.
 

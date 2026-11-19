@@ -85,7 +85,7 @@ Los benchmarks de robótica se ejecutan todavía sobre todo en simulación, aunq
 
 No cuento esta tendencia como un coste. El artículo de agosto argumentaba que renunciar a construir también tiene un precio, en enfermedades sin abordar, y la automatización de laboratorios está entre los beneficios que más se mencionan. Figura aquí por lo que hace a las otras dos tendencias. Un error en texto puede leerse y retractarse. Un error cometido a través de un brazo robótico o de una placa fabricada es más difícil de deshacer. Una rápida expansión de la capacidad física, siguiendo el patrón de los últimos cinco años en lenguaje, traería además efectos secundarios propios, y esos merecen un artículo aparte.
 
-## Más allá de la ventana de chat
+## Fuera de la ventana de chat
 
 El argumento a favor del optimismo en agosto descansaba en sistemas que podíamos leer. Absorbían sus valores de texto humano, se explicaban en prosa, y lo que producían era más texto. Cada una de las tendencias de este otoño retira uno de esos apoyos. Los valores se ajustan a posteriori, hacia una neutralidad que se detiene antes de la propia evidencia del modelo o hacia productos que están de acuerdo con lo que se les muestre. El razonamiento se traslada a una computación que no deja transcripción. Y los resultados se convierten en objetos y movimientos.
 
