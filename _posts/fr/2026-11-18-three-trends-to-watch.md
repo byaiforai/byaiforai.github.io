@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trois tendances à surveiller : l'IA au-delà de la fenêtre de chat"
+title: "Trois tendances à surveiller : l'IA hors de la fenêtre de chat"
 ---
 
 En août, j'[ai soutenu][starting-from-here] que presque toutes les preuves rassurantes sur les valeurs de l'IA proviennent d'un seul type de système : un modèle entraîné essentiellement à imiter du texte humain, qui répond en prose et écrit son raisonnement. Cet article nommait une menace pour ce schéma, le passage à l'apprentissage par renforcement sur des résultats à long horizon, qui pourrait récompenser un comportement impitoyable mais compétent que l'imitation du texte humain ne récompense pas.

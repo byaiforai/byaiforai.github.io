@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tiga Trend untuk Diperhatikan: AI Melangkaui Tetingkap Sembang"
+title: "Tiga Trend untuk Diperhatikan: AI di Luar Tetingkap Sembang"
 ---
 
 Pada bulan Ogos saya [berhujah][starting-from-here] bahawa hampir semua bukti yang menenangkan tentang nilai AI datang daripada satu jenis sistem sahaja: model yang dilatih terutamanya untuk meniru teks manusia, yang menjawab dalam bentuk prosa dan menulis penaakulannya. Catatan itu menamakan satu ancaman terhadap corak tersebut, iaitu peralihan kepada pembelajaran pengukuhan (reinforcement learning) ke atas hasil jangka panjang, yang boleh memberi ganjaran kepada tingkah laku yang kejam tetapi cekap, sesuatu yang tidak berlaku apabila teks manusia ditiru.

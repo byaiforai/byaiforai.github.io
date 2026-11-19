@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tre tendenze da tenere d'occhio: l'IA oltre la finestra di chat"
+title: "Tre tendenze da tenere d'occhio: l'IA fuori dalla finestra di chat"
 ---
 
 Ad agosto ho [sostenuto][starting-from-here] che quasi tutte le prove rassicuranti sui valori dell'IA provengono da un solo tipo di sistema: un modello addestrato soprattutto a imitare il testo umano, che risponde in prosa e scrive il proprio ragionamento. Quell'articolo indicava una minaccia a questo schema, il passaggio all'apprendimento per rinforzo su risultati a lungo orizzonte, che potrebbe premiare comportamenti spietati ma competenti che l'imitazione del testo umano non premia.

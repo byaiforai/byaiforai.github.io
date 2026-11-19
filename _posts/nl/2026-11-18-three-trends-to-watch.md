@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drie trends om in de gaten te houden: AI voorbij het chatvenster"
+title: "Drie trends om in de gaten te houden: AI buiten het chatvenster"
 ---
 
 In augustus [betoogde ik][starting-from-here] dat vrijwel al het geruststellende bewijs over de waarden van AI afkomstig is van één soort systeem: een model dat vooral is getraind om menselijke tekst na te bootsen, dat in proza antwoordt en zijn redenering uitschrijft. Dat artikel noemde één bedreiging voor dit patroon, de verschuiving naar reinforcement learning op uitkomsten over een lange horizon, wat meedogenloos maar competent gedrag kan belonen dat het nabootsen van menselijke tekst niet beloont.

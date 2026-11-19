@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drei Trends, die man beobachten sollte: KI jenseits des Chatfensters"
+title: "Drei Trends, die man beobachten sollte: KI außerhalb des Chatfensters"
 ---
 
 Im August habe ich [argumentiert][starting-from-here], dass fast alle beruhigenden Belege zu den Werten von KI aus einer einzigen Art von System stammen: einem Modell, das überwiegend darauf trainiert wurde, menschlichen Text nachzuahmen, das in Prosa antwortet und seine Überlegungen ausschreibt. Dieser Beitrag nannte eine Bedrohung für dieses Muster, nämlich die Hinwendung zu Reinforcement Learning auf langfristige Ergebnisse, das skrupelloses, aber kompetentes Verhalten belohnen könnte, was die Nachahmung menschlichen Textes nicht tut.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Três Tendências a Observar: A IA para Além da Janela de Chat"
+title: "Três Tendências a Observar: A IA Fora da Janela de Chat"
 ---
 
 Em agosto [defendi][starting-from-here] que quase todas as provas tranquilizadoras sobre os valores da IA provêm de um único tipo de sistema: um modelo treinado sobretudo para imitar texto humano, que responde em prosa e escreve o seu raciocínio. Esse artigo apontava uma ameaça a este padrão, a passagem para a aprendizagem por reforço sobre resultados de longo horizonte, que poderia recompensar comportamentos implacáveis mas competentes, que a imitação de texto humano não recompensa.

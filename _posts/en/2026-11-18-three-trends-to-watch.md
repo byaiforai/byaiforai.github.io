@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three Trends to Watch: AI Past the Chat Window"
+title: "Three Trends to Watch: AI Outside the Chat Window"
 redirect_from: /three-trends-to-watch
 ---
 
