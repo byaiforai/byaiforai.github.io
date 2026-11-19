@@ -3,7 +3,9 @@ layout: post
 title: "Trois tendances à surveiller : l'IA au-delà de la fenêtre de chat"
 ---
 
-En août, j'[ai soutenu][starting-from-here] que presque toutes les preuves rassurantes sur les valeurs de l'IA proviennent d'un seul type de système : un modèle entraîné essentiellement à imiter du texte humain, qui répond en prose et écrit son raisonnement. Cet article nommait une menace pour ce schéma, le passage à l'apprentissage par renforcement sur des résultats à long horizon, qui pourrait récompenser un comportement impitoyable mais compétent que l'imitation du texte humain ne récompense pas. Cet automne en a produit trois autres. Les développeurs remodèlent les valeurs des modèles après le pré-entraînement, à la fois en entraînant à la neutralité et en vendant des modèles qui rendent un verdict sans aucune prose. Au moins un modèle de pointe peut désormais faire beaucoup plus de raisonnement sans en écrire la moindre trace. Et des modèles généralistes ont commencé à concevoir des circuits imprimés et à piloter des bras robotiques à peu près aussi bien que des systèmes bâtis pour cette tâche.
+En août, j'[ai soutenu][starting-from-here] que presque toutes les preuves rassurantes sur les valeurs de l'IA proviennent d'un seul type de système : un modèle entraîné essentiellement à imiter du texte humain, qui répond en prose et écrit son raisonnement. Cet article nommait une menace pour ce schéma, le passage à l'apprentissage par renforcement sur des résultats à long horizon, qui pourrait récompenser un comportement impitoyable mais compétent que l'imitation du texte humain ne récompense pas.
+
+Cet automne en a produit trois autres. Les développeurs remodèlent les valeurs des modèles après le pré-entraînement, à la fois en entraînant à la neutralité et en vendant des modèles qui rendent un verdict sans aucune prose. Au moins un modèle de pointe peut désormais faire beaucoup plus de raisonnement sans en écrire la moindre trace. Et des modèles généralistes ont commencé à concevoir des circuits imprimés et à piloter des bras robotiques à peu près aussi bien que des systèmes bâtis pour cette tâche.
 
 ## Des valeurs façonnées par le produit
 

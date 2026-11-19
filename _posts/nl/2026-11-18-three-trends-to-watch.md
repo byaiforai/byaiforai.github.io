@@ -3,7 +3,9 @@ layout: post
 title: "Drie trends om in de gaten te houden: AI voorbij het chatvenster"
 ---
 
-In augustus [betoogde ik][starting-from-here] dat vrijwel al het geruststellende bewijs over de waarden van AI afkomstig is van één soort systeem: een model dat vooral is getraind om menselijke tekst na te bootsen, dat in proza antwoordt en zijn redenering uitschrijft. Dat artikel noemde één bedreiging voor dit patroon, de verschuiving naar reinforcement learning op uitkomsten over een lange horizon, wat meedogenloos maar competent gedrag kan belonen dat het nabootsen van menselijke tekst niet beloont. Dit najaar bracht er drie bij. Ontwikkelaars geven de waarden van modellen na de pretraining een andere vorm, zowel door neutraliteit in te trainen als door modellen te verkopen die een oordeel teruggeven zonder proza. Minstens één frontiermodel kan nu veel meer redeneren zonder er iets van op te schrijven. En algemene modellen zijn begonnen met het ontwerpen van printplaten en het aansturen van robotarmen, ongeveer even goed als systemen die daarvoor zijn gebouwd.
+In augustus [betoogde ik][starting-from-here] dat vrijwel al het geruststellende bewijs over de waarden van AI afkomstig is van één soort systeem: een model dat vooral is getraind om menselijke tekst na te bootsen, dat in proza antwoordt en zijn redenering uitschrijft. Dat artikel noemde één bedreiging voor dit patroon, de verschuiving naar reinforcement learning op uitkomsten over een lange horizon, wat meedogenloos maar competent gedrag kan belonen dat het nabootsen van menselijke tekst niet beloont.
+
+Dit najaar bracht er drie bij. Ontwikkelaars geven de waarden van modellen na de pretraining een andere vorm, zowel door neutraliteit in te trainen als door modellen te verkopen die een oordeel teruggeven zonder proza. Minstens één frontiermodel kan nu veel meer redeneren zonder er iets van op te schrijven. En algemene modellen zijn begonnen met het ontwerpen van printplaten en het aansturen van robotarmen, ongeveer even goed als systemen die daarvoor zijn gebouwd.
 
 ## Waarden, gevormd door het product
 

@@ -3,7 +3,9 @@ layout: post
 title: "Tres tendencias que vigilar: la IA más allá de la ventana de chat"
 ---
 
-En agosto [sostuve][starting-from-here] que casi toda la evidencia tranquilizadora sobre los valores de la IA procede de un único tipo de sistema: un modelo entrenado sobre todo para imitar texto humano, que responde en prosa y escribe su razonamiento. Aquel artículo señalaba una amenaza para ese patrón, el giro hacia el aprendizaje por refuerzo sobre resultados a largo plazo, que podría recompensar un comportamiento despiadado pero competente que la imitación de texto humano no recompensa. Este otoño ha traído tres más. Los desarrolladores están remodelando los valores de los modelos después del preentrenamiento, tanto entrenando la neutralidad como vendiendo modelos que devuelven un veredicto sin prosa. Al menos un modelo de frontera puede ahora razonar mucho más sin escribir nada de ese razonamiento. Y los modelos de propósito general han empezado a diseñar placas de circuito y a manejar brazos robóticos casi tan bien como los sistemas creados para ello.
+En agosto [sostuve][starting-from-here] que casi toda la evidencia tranquilizadora sobre los valores de la IA procede de un único tipo de sistema: un modelo entrenado sobre todo para imitar texto humano, que responde en prosa y escribe su razonamiento. Aquel artículo señalaba una amenaza para ese patrón, el giro hacia el aprendizaje por refuerzo sobre resultados a largo plazo, que podría recompensar un comportamiento despiadado pero competente que la imitación de texto humano no recompensa.
+
+Este otoño ha traído tres más. Los desarrolladores están remodelando los valores de los modelos después del preentrenamiento, tanto entrenando la neutralidad como vendiendo modelos que devuelven un veredicto sin prosa. Al menos un modelo de frontera puede ahora razonar mucho más sin escribir nada de ese razonamiento. Y los modelos de propósito general han empezado a diseñar placas de circuito y a manejar brazos robóticos casi tan bien como los sistemas creados para ello.
 
 ## Valores moldeados por el producto
 

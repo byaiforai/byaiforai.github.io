@@ -3,7 +3,9 @@ layout: post
 title: "Trzy trendy do obserwowania: AI poza oknem czatu"
 ---
 
-W sierpniu [argumentowałem][starting-from-here], że niemal wszystkie uspokajające dowody dotyczące wartości AI pochodzą z jednego rodzaju systemu: modelu trenowanego głównie na naśladowaniu ludzkiego tekstu, który odpowiada prozą i wypisuje swoje rozumowanie. Tamten wpis wskazał jedno zagrożenie dla tego wzorca, czyli zwrot ku uczeniu ze wzmocnieniem na wynikach o długim horyzoncie, który mógłby nagradzać bezwzględne, lecz kompetentne zachowania, jakich naśladowanie ludzkiego tekstu nie nagradza. Tej jesieni pojawiły się trzy kolejne. Twórcy kształtują wartości modeli po pretreningu, zarówno przez trenowanie neutralności, jak i przez sprzedaż modeli, które zwracają werdykt bez żadnej prozy. Co najmniej jeden model z czołówki potrafi już prowadzić znacznie więcej rozumowania bez zapisywania go. A modele ogólnego przeznaczenia zaczęły projektować płytki drukowane i sterować ramionami robotów mniej więcej tak dobrze jak systemy zbudowane do tego celu.
+W sierpniu [argumentowałem][starting-from-here], że niemal wszystkie uspokajające dowody dotyczące wartości AI pochodzą z jednego rodzaju systemu: modelu trenowanego głównie na naśladowaniu ludzkiego tekstu, który odpowiada prozą i wypisuje swoje rozumowanie. Tamten wpis wskazał jedno zagrożenie dla tego wzorca, czyli zwrot ku uczeniu ze wzmocnieniem na wynikach o długim horyzoncie, który mógłby nagradzać bezwzględne, lecz kompetentne zachowania, jakich naśladowanie ludzkiego tekstu nie nagradza.
+
+Tej jesieni pojawiły się trzy kolejne. Twórcy kształtują wartości modeli po pretreningu, zarówno przez trenowanie neutralności, jak i przez sprzedaż modeli, które zwracają werdykt bez żadnej prozy. Co najmniej jeden model z czołówki potrafi już prowadzić znacznie więcej rozumowania bez zapisywania go. A modele ogólnego przeznaczenia zaczęły projektować płytki drukowane i sterować ramionami robotów mniej więcej tak dobrze jak systemy zbudowane do tego celu.
 
 ## Wartości ukształtowane przez produkt
 

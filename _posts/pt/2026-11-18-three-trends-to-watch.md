@@ -3,7 +3,9 @@ layout: post
 title: "Três Tendências a Observar: A IA para Além da Janela de Chat"
 ---
 
-Em agosto [defendi][starting-from-here] que quase todas as provas tranquilizadoras sobre os valores da IA provêm de um único tipo de sistema: um modelo treinado sobretudo para imitar texto humano, que responde em prosa e escreve o seu raciocínio. Esse artigo apontava uma ameaça a este padrão, a passagem para a aprendizagem por reforço sobre resultados de longo horizonte, que poderia recompensar comportamentos implacáveis mas competentes, que a imitação de texto humano não recompensa. Este outono trouxe mais três. Os programadores estão a remodelar os valores dos modelos depois do pré-treino, tanto treinando-os para a neutralidade como vendendo modelos que devolvem um veredicto sem prosa. Pelo menos um modelo de fronteira consegue agora fazer muito mais raciocínio sem escrever nada dele. E os modelos de uso geral começaram a desenhar placas de circuitos e a controlar braços robóticos aproximadamente tão bem como sistemas construídos para essa função.
+Em agosto [defendi][starting-from-here] que quase todas as provas tranquilizadoras sobre os valores da IA provêm de um único tipo de sistema: um modelo treinado sobretudo para imitar texto humano, que responde em prosa e escreve o seu raciocínio. Esse artigo apontava uma ameaça a este padrão, a passagem para a aprendizagem por reforço sobre resultados de longo horizonte, que poderia recompensar comportamentos implacáveis mas competentes, que a imitação de texto humano não recompensa.
+
+Este outono trouxe mais três. Os programadores estão a remodelar os valores dos modelos depois do pré-treino, tanto treinando-os para a neutralidade como vendendo modelos que devolvem um veredicto sem prosa. Pelo menos um modelo de fronteira consegue agora fazer muito mais raciocínio sem escrever nada dele. E os modelos de uso geral começaram a desenhar placas de circuitos e a controlar braços robóticos aproximadamente tão bem como sistemas construídos para essa função.
 
 ## Valores, moldados pelo produto
 

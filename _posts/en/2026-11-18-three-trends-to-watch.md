@@ -4,7 +4,9 @@ title: "Three Trends to Watch: AI Past the Chat Window"
 redirect_from: /three-trends-to-watch
 ---
 
-In August I [argued][starting-from-here] that nearly all the reassuring evidence about AI values comes from one kind of system: a model trained mostly to imitate human text, which answers in prose and writes out its reasoning. That post named one threat to the pattern, the shift toward reinforcement learning on long-horizon outcomes, which could reward ruthless but competent behavior that imitating human text does not. This autumn produced three more. Developers are reshaping model values after pretraining, both by training in neutrality and by selling models that return a verdict with no prose. At least one frontier model can now do much more reasoning without writing any of it down. And general-purpose models have started designing circuit boards and steering robot arms about as well as systems built for the job.
+In August I [argued][starting-from-here] that nearly all the reassuring evidence about AI values comes from one kind of system: a model trained mostly to imitate human text, which answers in prose and writes out its reasoning. That post named one threat to the pattern, the shift toward reinforcement learning on long-horizon outcomes, which could reward ruthless but competent behavior that imitating human text does not.
+
+This autumn produced three more. Developers are reshaping model values after pretraining, both by training in neutrality and by selling models that return a verdict with no prose. At least one frontier model can now do much more reasoning without writing any of it down. And general-purpose models have started designing circuit boards and steering robot arms about as well as systems built for the job.
 
 ## Values, shaped by product
 
